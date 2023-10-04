@@ -62,9 +62,9 @@ def main():
         vector_store = FAISS.from_documents(text_chunks, embedding=embeddings)
 
         # Create the chain object
-        #utils.create_retrieval_qa_chain(vector_store)
-        
-        utils.display_chat_history(vector_store)
+        chain = utils.create_conversational_chain(vector_store)
+
+        utils.display_chat_history(chain)
 
 if __name__ == "__main__":
     main()
