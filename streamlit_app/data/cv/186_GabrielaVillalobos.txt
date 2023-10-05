@@ -1,0 +1,14 @@
+Nombre: Gabriela Villalobos
+ 
+About: Profesional con background en Análisis de Datos en Ciencia de Alimentos.
+Me destaco por mi Capacidad para Mantener la Motivación a Distancia.
+ 
+Herramientas técnicas:
+1. Web3.js
+2. AWS Glue
+3. C++
+
+Experiencia laboral
+1. Analista de Datos de Comportamiento del Consumidor en Precision Motors Inc. (8 años)
+2. Analista de Seguridad de la Información en TechSolutions Development (7 años)
+3. Ingeniero de Sistemas en Quality Products Distribution (8 años)

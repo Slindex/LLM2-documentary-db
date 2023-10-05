@@ -1,0 +1,15 @@
+Nombre: Brandi Downs
+ 
+About: Profesional con background en Ciencia de Datos en la Agricultura.
+Me destaco por mi Trabajo en Equipo.
+ 
+Herramientas técnicas:
+1. OpenCV
+2. Cucumber
+3. Apache Kafka
+4. DevOps
+
+Experiencia laboral
+1. Analista de Datos de Usuarios en Healthy Foods International (3 años)
+2. Ingeniero de Control de Procesos de Automatización en DataGenius Innovations (3 años)
+3. Ingeniero de Redes de Telecomunicaciones en HealthLine Pharmaceuticals (8 años)

@@ -1,0 +1,18 @@
+Nombre: Stephanie Martinez
+ 
+About: Profesional con background en Data Science.
+Me destaco por mi Resolución de Problemas Creativa.
+ 
+Herramientas técnicas:
+1. Redis
+2. Apache Beam
+3. Pig
+4. WordPress
+5. Bitbucket
+6. Unity
+
+Experiencia laboral
+1. Gerente de Operaciones en Golden Harvest Agroexport (9 años)
+2. Analista de Datos de Investigación en AutoMasters Auto Repair (8 años)
+3. Especialista en Publicidad en Línea en MediLife Healthcare (2 años)
+4. Atención al Cliente en Industrial Engineering Solutions (10 años)

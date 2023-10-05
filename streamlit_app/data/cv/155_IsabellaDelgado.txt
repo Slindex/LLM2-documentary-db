@@ -1,0 +1,17 @@
+Nombre: Isabella Delgado
+ 
+About: Profesional con background en Bioinformática.
+Me destaco por mi Habilidad para Trabajar Bajo Presión.
+ 
+Herramientas técnicas:
+1. UI/UX Design
+2. DataRobot
+3. Data Lakes
+4. ISO 27001
+
+Experiencia laboral
+1. Ingeniero de Control de Procesos de Automatización en Quality Foods Distribution (9 años)
+2. Comunity Mannager en Advanced Materials Innovations (10 años)
+3. Especialista en Análisis de Datos de Usuarios en Precision Electronics Inc. (10 años)
+4. Analista de Datos de Mercado en AutoMasters Dealership (5 años)
+5. Gerente de Desarrollo de Productos en Advanced Robotics Technologies (4 años)

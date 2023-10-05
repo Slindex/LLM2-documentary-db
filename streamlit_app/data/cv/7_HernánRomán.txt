@@ -1,0 +1,19 @@
+Nombre: Hernán Román
+ 
+About: Profesional con background en Programación.
+Me destaco por mi Capacidad de Organización.
+ 
+Herramientas técnicas:
+1. Zephyr
+2. Kubeflow
+3. User Manuals
+4. Statistical Modeling
+5. Plotly
+6. Express.js
+7. DataRobot
+8. DVC (Data Version Control)
+
+Experiencia laboral
+1. Desarrollador de Aplicaciones Web en DigitalXpress Solutions (3 años)
+2. Especialista en Análisis de Datos de Usuarios en ProTech Surveillance Services (9 años)
+3. Analista de Seguridad de la Información en Industrial Solutions Inc. (4 años)

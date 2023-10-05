@@ -1,0 +1,14 @@
+Nombre: Roberto Sanhueza
+ 
+About: Profesional con background en Análisis de Políticas Públicas.
+Me destaco por mi Habilidades de Networking.
+ 
+Herramientas técnicas:
+1. Trello
+2. Databricks
+3. Hortonworks
+4. Lean
+5. Data Engineering
+
+Experiencia laboral
+1. Analista de Datos de Comportamiento del Consumidor en GreenLeaf Organics (2 años)

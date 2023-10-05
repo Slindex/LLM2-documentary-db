@@ -1,0 +1,13 @@
+Nombre: Lucas Guerra
+ 
+About: Profesional con background en Programación.
+Me destaco por mi Habilidad para Dar y Recibir Retroalimentación.
+ 
+Herramientas técnicas:
+1. Microsoft Azure
+2. 3D Printing
+3. Project Management Tools (Jira, Trello)
+
+Experiencia laboral
+1. Consultor de Seguridad de la Información en Swift Express Cargo (3 años)
+2. Gerente de Operaciones en DataQuest Analytics (4 años)

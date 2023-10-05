@@ -1,0 +1,20 @@
+Nombre: Sarah Cuevas
+ 
+About: Profesional con background en Investigación Científica.
+Me destaco por mi Resolución de Problemas Creativa.
+ 
+Herramientas técnicas:
+1. Plotly
+2. Project Management Tools (Jira, Trello)
+3. Robotics
+4. IBM SPSS
+5. Six Sigma
+6. Cardano
+7. Monday.com
+8. MySQL
+9. Data Ethics
+10. Web3.js
+
+Experiencia laboral
+1. Ingeniero de Telecomunicaciones en ProTech Surveillance Services (4 años)
+2. Ingeniero de DevOps en BlueOcean Technologies (6 años)

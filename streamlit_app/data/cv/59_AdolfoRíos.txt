@@ -1,0 +1,20 @@
+Nombre: Adolfo Ríos
+ 
+About: Profesional con background en Ingeniería de Datos en Ciencias de la Comunicación.
+Me destaco por mi Adaptabilidad al Trabajo Remoto.
+ 
+Herramientas técnicas:
+1. UI/UX Design
+2. Oracle
+3. TOGAF
+4. Statistical Modeling
+5. Cybersecurity
+6. Data Integration
+7. Data Cleaning
+8. Data Security
+9. Kanban
+
+Experiencia laboral
+1. Gerente de Operaciones de Logística en Data Insights Corporation (3 años)
+2. Analista de Operaciones en DataWave Technologies (8 años)
+3. Especialista en Gestión de Proyectos en Analytics Innovators Inc. (7 años)

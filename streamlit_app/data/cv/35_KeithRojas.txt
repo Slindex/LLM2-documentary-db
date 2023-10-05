@@ -1,0 +1,20 @@
+Nombre: Keith Rojas
+ 
+About: Profesional con background en Diseño de Base de Datos.
+Me destaco por mi Adaptabilidad al Trabajo Remoto.
+ 
+Herramientas técnicas:
+1. TestRail
+2. Apache Cassandra
+3. Bash Scripting
+4. Text Editors (Sublime Text, Atom)
+5. Talend
+6. Sisense
+7. Computer Vision
+8. API Documentation
+9. IBM SPSS
+10. Quality Assurance (QA)
+
+Experiencia laboral
+1. Especialista en Análisis de Datos de Usuarios en Industrial Engineering Group (10 años)
+2. Gerente de Producto en TechSolutions Development (7 años)

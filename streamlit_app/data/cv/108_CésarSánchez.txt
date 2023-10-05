@@ -1,0 +1,17 @@
+Nombre: César Sánchez
+ 
+About: Profesional con background en Ingeniería de Datos en la Automatización Industrial.
+Me destaco por mi Respeto por la Diversidad.
+ 
+Herramientas técnicas:
+1. Scrum
+2. User Manuals
+3. AIOps (Artificial Intelligence for IT Operations)
+4. R
+5. DataRobot
+6. Linux/Unix
+7. Diseño Web
+8. WordPress Development
+
+Experiencia laboral
+1. Desarrollador de Back-end en EcoScape Landscaping (3 años)

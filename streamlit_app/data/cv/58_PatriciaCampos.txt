@@ -1,0 +1,18 @@
+Nombre: Patricia Campos
+ 
+About: Profesional con background en Química Computacional.
+Me destaco por mi Capacidad de Organización.
+ 
+Herramientas técnicas:
+1. Docker
+2. Cloud Computing
+3. Web Analytics
+4. Microsoft SQL Server
+5. Technical Documentation
+6. SAS Analytics
+
+Experiencia laboral
+1. Analista de Seguridad de la Información en SmartCity Technologies (6 años)
+2. Gerente de Marketing en DataPro Consulting (7 años)
+3. Analista de Seguimiento de Conversiones en Swift Express Cargo (5 años)
+4. Especialista en E-commerce en Innovative Technologies Ltd. (8 años)

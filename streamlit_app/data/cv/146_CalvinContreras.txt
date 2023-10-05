@@ -1,0 +1,15 @@
+Nombre: Calvin Contreras
+ 
+About: Profesional con background en Marketing Digital.
+Me destaco por mi Mentoría.
+ 
+Herramientas técnicas:
+1. Data Catalogs
+2. Bokeh
+3. StatsModels
+4. GitLab
+
+Experiencia laboral
+1. Analista de Datos de Investigación en Advanced Materials Innovations (5 años)
+2. Diseñador de Productos en GreenLife Ventures (5 años)
+3. Especialista en SEO Técnico en SmartGrid Energy Solutions (5 años)

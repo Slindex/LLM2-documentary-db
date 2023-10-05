@@ -1,0 +1,17 @@
+Nombre: Ángel Quinn
+ 
+About: Profesional con background en Data Engineering.
+Me destaco por mi Gestión de Reuniones Virtuales.
+ 
+Herramientas técnicas:
+1. Scrum
+2. Data Visualization Libraries (matplotlib, seaborn)
+3. Data Cleaning
+4. IBM SPSS
+5. Data Ethics
+6. New Relic
+7. Cucumber
+8. DVC (Data Version Control)
+
+Experiencia laboral
+1. Analista de Seguimiento de Conversiones en HealthCare Solutions Group (9 años)

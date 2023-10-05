@@ -1,0 +1,17 @@
+Nombre: Martha Catalán
+ 
+About: Profesional con background en Cinematografía.
+Me destaco por mi Gestión de Equipos Virtuales.
+ 
+Herramientas técnicas:
+1. Oracle Exadata
+2. MLflow
+3. Sqoop
+4. Quality Assurance (QA)
+5. Scrum
+6. Google Analytics
+7. Docker
+8. Search Engine Marketing (SEM)
+
+Experiencia laboral
+1. Especialista en Marketing de Contenido en Elite Expeditions (6 años)

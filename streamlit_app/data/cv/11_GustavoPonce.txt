@@ -1,0 +1,19 @@
+Nombre: Gustavo Ponce
+ 
+About: Profesional con background en Diseño de Base de Datos.
+Me destaco por mi Habilidad para Construir Relaciones Duraderas.
+ 
+Herramientas técnicas:
+1. Pig
+2. Data Governance Tools
+3. NoSQL Databases
+4. Statistical Software (R, SAS)
+5. Kanban
+6. Google BigQuery
+7. TensorFlow
+8. Apache Beam
+9. Blender
+10. Version Control
+
+Experiencia laboral
+1. Desarrollador Back-end en TechFusion Solutions (9 años)

@@ -1,0 +1,16 @@
+Nombre: Antonio Silva
+ 
+About: Profesional con background en Estadística Aplicada.
+Me destaco por mi Pensamiento Crítico.
+ 
+Herramientas técnicas:
+1. Microsoft Excel
+2. TeamCity
+3. CI/CD (Continuous Integration/Continuous Deployment)
+4. Apache Kafka
+5. Data Warehousing
+6. Natural Language Processing (NLP)
+
+Experiencia laboral
+1. Analista de Riesgos Financieros en Swift Global Logistics (3 años)
+2. Especialista en Gestión de Proyectos en BlueStar Communications (6 años)

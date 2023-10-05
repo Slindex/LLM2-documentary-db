@@ -1,0 +1,16 @@
+Nombre: Daniel Mitchell
+ 
+About: Profesional con background en Análisis Legal de Datos.
+Me destaco por mi Habilidad para Escuchar.
+ 
+Herramientas técnicas:
+1. Data Manipulation Libraries (pandas, numpy)
+2. Data Warehouse Platforms
+3. Alteryx
+4. Prometheus
+5. Robot Framework
+6. Data Governance Tools
+7. Google Colab
+
+Experiencia laboral
+1. Ingeniero de DevOps en Creative Design Group (5 años)

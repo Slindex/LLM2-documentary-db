@@ -1,0 +1,19 @@
+Nombre: César Gómez
+ 
+About: Profesional con background en Blockchain.
+Me destaco por mi Habilidad para Tomar Iniciativa.
+ 
+Herramientas técnicas:
+1. Database Management Systems (DBMS)
+2. Automated Testing
+3. Computer Vision
+4. Asana
+5. Content Marketing
+6. Hyperledger
+7. Django Rest Framework
+8. OpenCV
+
+Experiencia laboral
+1. Ingeniero de Control de Procesos de Automatización en InfoTech Analytics Group (2 años)
+2. Analista de Reclutamiento en ProTech Surveillance Systems (4 años)
+3. Especialista en Análisis de Datos de Usuarios en DigitalXpress Solutions (10 años)

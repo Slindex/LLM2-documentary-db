@@ -1,0 +1,20 @@
+Nombre: Gregory Mora
+ 
+About: Profesional con background en Ciencias Naturales.
+Me destaco por mi Gestión de Expectativas.
+ 
+Herramientas técnicas:
+1. Travis CI
+2. Truffle
+3. Amazon Web Services (AWS)
+4. AutoCAD
+5. TOGAF
+6. Project Management Tools (Jira, Trello)
+7. 3D Printing
+8. SQL Server
+9. Metasploit
+10. Wireshark
+
+Experiencia laboral
+1. Ingeniero de Control de Procesos de Automatización en Swift Express Shipping (6 años)
+2. Ingeniero de Redes de Telecomunicaciones en Architectural Wonders (9 años)

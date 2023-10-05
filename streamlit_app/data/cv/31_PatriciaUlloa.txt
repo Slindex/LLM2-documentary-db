@@ -1,0 +1,18 @@
+Nombre: Patricia Ulloa
+ 
+About: Profesional con background en Análisis de Datos en la Ecología.
+Me destaco por mi Resolución de Problemas Creativa.
+ 
+Herramientas técnicas:
+1. ETL Tools (Talend, Informatica)
+2. Azure
+3. Cucumber
+4. Data Lakes
+5. Data Engineering
+6. Data Security
+7. User Manuals
+8. Bitbucket
+
+Experiencia laboral
+1. Analista de Gestión de Proyectos en Eco Energía Corporation (6 años)
+2. Ingeniero de Control de Procesos de Automatización en DataGenius Analytics (10 años)

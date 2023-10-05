@@ -1,0 +1,20 @@
+Nombre: Isaac Cuevas
+ 
+About: Profesional con background en Gestión de Proyectos de TI.
+Me destaco por mi Resiliencia.
+ 
+Herramientas técnicas:
+1. Hyperledger
+2. Text Editors (Sublime Text, Atom)
+3. PostgreSQL
+4. ITIL
+5. Data Governance Tools
+6. Kanban
+7. Machine Learning
+
+Experiencia laboral
+1. Ingeniero de Software Embebido en BlueStar Technologies (7 años)
+2. Gerente de Desarrollo de Productos en Swift Logistics Solutions (3 años)
+3. Atención al Cliente en Creative Media Productions (7 años)
+4. Especialista en Optimización de Motores de Búsqueda (SEO) en TechWizards Software (9 años)
+5. Ingeniero de Control de Procesos de Automatización en Architects & Associates (3 años)

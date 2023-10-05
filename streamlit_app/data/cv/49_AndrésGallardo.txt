@@ -1,0 +1,21 @@
+Nombre: Andrés Gallardo
+ 
+About: Profesional con background en Análisis de Datos en Tiempo Real.
+Me destaco por mi Comunicación No Verbal.
+ 
+Herramientas técnicas:
+1. Talend
+2. Bash Scripting
+3. Monday.com
+4. IoT (Internet of Things)
+5. Data Manipulation Libraries (pandas, numpy)
+6. Automated Testing
+7. Travis CI
+8. LaTeX
+9. Nagios
+
+Experiencia laboral
+1. Analista de Seguridad de la Información en DataCraft Labs (8 años)
+2. Especialista en Estrategia de Contenido en Swift Express Cargo (5 años)
+3. Especialista en Estrategia de Contenido en HealthCare Innovations (7 años)
+4. Ingeniero de Redes de Telecomunicaciones en Quality Foods Distribution (2 años)
