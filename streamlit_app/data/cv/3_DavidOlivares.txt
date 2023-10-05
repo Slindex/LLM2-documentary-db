@@ -1,0 +1,18 @@
+Nombre: David Olivares
+ 
+About: Profesional con background en Ingeniería Mecánica.
+Me destaco por mi Ética Profesional.
+ 
+Herramientas técnicas:
+1. Amazon Web Services (AWS)
+2. IoT (Internet of Things)
+3. Talend
+4. Solidity
+5. ISO 9001
+
+Experiencia laboral
+1. Ingeniero de Automatización de Procesos en EcoCycle Recycling (6 años)
+2. Analista de Seguros en HealthWave Pharmaceuticals (5 años)
+3. Ingeniero de Automatización Industrial en TechSolutions Development (8 años)
+4. Analista de Datos de Usuarios en Precision Manufacturing Inc. (9 años)
+5. Especialista en Gestión de Proyectos en Modern Homes Development (4 años)

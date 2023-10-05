@@ -1,0 +1,15 @@
+Nombre: Daniel Valdés
+ 
+About: Profesional con background en Ingeniería Eléctrica.
+Me destaco por mi Facilitación de Reuniones Efectivas.
+ 
+Herramientas técnicas:
+1. GitLab
+2. Data Cleaning
+3. PRINCE2
+4. Data Warehousing
+5. Databricks
+
+Experiencia laboral
+1. Ingeniero de Sistemas en Smart Home Solutions (7 años)
+2. Analista de Datos de Investigación en AutoMasters Auto Repair (7 años)

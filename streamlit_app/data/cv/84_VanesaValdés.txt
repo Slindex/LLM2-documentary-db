@@ -1,0 +1,18 @@
+Nombre: Vanesa Valdés
+ 
+About: Profesional con background en Data Analytics.
+Me destaco por mi Capacidad de Influencia.
+ 
+Herramientas técnicas:
+1. Markdown Editors
+2. Data Visualization Libraries (matplotlib, seaborn)
+3. Python
+4. IBM Qiskit
+5. TestRail
+6. Data Warehousing
+7. OWASP
+
+Experiencia laboral
+1. Especialista en Análisis de Datos de Usuarios en BlueSky Communications (10 años)
+2. Ingeniero de Software de Sistemas Embebidos en GreenEco Investments (8 años)
+3. Especialista en Análisis de Datos de Usuarios en Creative Edge Design (6 años)

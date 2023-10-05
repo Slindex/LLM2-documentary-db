@@ -1,0 +1,20 @@
+Nombre: Paige Osorio
+ 
+About: Profesional con background en Ingeniería Química.
+Me destaco por mi Habilidad para Tomar Iniciativa.
+ 
+Herramientas técnicas:
+1. Data Preprocessing
+2. SQL
+3. NLTK
+4. Network Security
+5. Data Security
+6. IoT (Internet of Things)
+7. Snowflake
+8. Diseño Web
+
+Experiencia laboral
+1. Analista de Datos de Comportamiento del Consumidor en DataPro Analytics Group (10 años)
+2. Gerente de Logística en TechWizards Software (2 años)
+3. Gerente de Operaciones de TI en Global Solutions Consulting (10 años)
+4. Ingeniero de Automatización Industrial en Industrial Engineering Group (6 años)

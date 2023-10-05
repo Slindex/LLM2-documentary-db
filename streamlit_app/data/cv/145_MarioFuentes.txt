@@ -1,0 +1,15 @@
+Nombre: Mario Fuentes
+ 
+About: Profesional con background en Ciencia de Datos en Geografía.
+Me destaco por mi Toma de Decisiones.
+ 
+Herramientas técnicas:
+1. React
+2. Social Media Marketing
+3. Web3.js
+4. Sqoop
+
+Experiencia laboral
+1. Analista de Sistemas en AutoDrive Automotive (7 años)
+2. Analista de Seguridad de la Información en Ingeniería y Diseño Industrial (8 años)
+3. Data Scientist en Swift Delivery Logistics (9 años)

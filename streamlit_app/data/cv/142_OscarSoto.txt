@@ -1,0 +1,16 @@
+Nombre: Oscar Soto
+ 
+About: Profesional con background en Geografía.
+Me destaco por mi Gestión del Tiempo.
+ 
+Herramientas técnicas:
+1. Lean
+2. ITIL
+3. R
+4. LaTeX
+5. Docker
+
+Experiencia laboral
+1. Gerente de Logística en BlueSky Aerospace Industries (4 años)
+2. Ingeniero de Sistemas Embebidos en GreenTech Ventures (7 años)
+3. Diseñador de Experiencia de Usuario (UX) en MediCure Hospitals Group (6 años)

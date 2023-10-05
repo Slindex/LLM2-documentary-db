@@ -1,0 +1,15 @@
+Nombre: Oscar Pizarro
+ 
+About: Profesional con background en Análisis de Datos en la Industria de la Logística.
+Me destaco por mi Aprendizaje Continuo.
+ 
+Herramientas técnicas:
+1. Cloud Computing
+2. Tableau
+3. TeamCity
+4. Streamlit
+
+Experiencia laboral
+1. Ingeniero de Telecomunicaciones en MediWell Healthcare (3 años)
+2. Analista de Inteligencia de Negocios en Architectural Excellence (4 años)
+3. Ingeniero de Automatización de Procesos en Data Insights Corporation (7 años)

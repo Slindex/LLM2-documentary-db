@@ -1,0 +1,20 @@
+Nombre: Marcelo Lara
+ 
+About: Profesional con background en Blockchain.
+Me destaco por mi Comunicación a Través de Plataformas Digitales.
+ 
+Herramientas técnicas:
+1. QlikView
+2. Postman
+3. Statistical Modeling
+4. NoSQL Databases
+5. Statistical Software (R, SAS)
+6. Informatica PowerCenter
+7. Spacy
+8. Apache Flink
+9. Flask-RESTful
+10. Unreal Engine
+
+Experiencia laboral
+1. Ingeniero de Software de Sistemas Embebidos en MediCura Healthcare (2 años)
+2. Especialista en Marketing de Contenido en DigitalXpress Solutions (10 años)

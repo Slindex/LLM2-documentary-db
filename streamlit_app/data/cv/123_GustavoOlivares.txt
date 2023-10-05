@@ -1,0 +1,17 @@
+Nombre: Gustavo Olivares
+ 
+About: Profesional con background en Análisis de Datos en Periodismo.
+Me destaco por mi Gestión de Estrés.
+ 
+Herramientas técnicas:
+1. Alteryx
+2. Google Colab
+3. Data Visualization Libraries (matplotlib, seaborn)
+4. Qlik Sense
+5. Linux/Unix
+6. MySQL
+
+Experiencia laboral
+1. Analista de Investigación de Datos en GreenTech Ventures (4 años)
+2. Gerente de Desarrollo de Negocios en Swift Cargo Shipping (5 años)
+3. Analista de Seguimiento de Conversiones en Creative Visions Studio (6 años)

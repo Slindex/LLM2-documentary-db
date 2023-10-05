@@ -1,0 +1,14 @@
+Nombre: Christy Campos
+ 
+About: Profesional con background en Data Engineering.
+Me destaco por mi Mentoría.
+ 
+Herramientas técnicas:
+1. Dataiku DSS
+2. IBM SPSS
+3. Data Pipelines
+
+Experiencia laboral
+1. Especialista en Automatización de Procesos en TechGenius Software (4 años)
+2. Analista de Datos de Investigación en Advanced Robotics Engineering (9 años)
+3. Especialista en Marketing de Contenido en MediCenter Hospitals (2 años)

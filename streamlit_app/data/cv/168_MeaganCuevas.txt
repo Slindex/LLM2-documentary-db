@@ -1,0 +1,20 @@
+Nombre: Meagan Cuevas
+ 
+About: Profesional con background en Desarrollo de Sistemas de Recomendación.
+Me destaco por mi Capacidad para Manejar Críticas Constructivas.
+ 
+Herramientas técnicas:
+1. PyTorch
+2. Technical Writing
+3. DevOps
+4. Quality Assurance (QA)
+5. Tableau
+6. Web Development Frameworks (Flask, Django)
+7. Sqoop
+8. Natural Language Processing (NLP)
+
+Experiencia laboral
+1. Especialista en Analítica de Datos en Modern Workspace Design (10 años)
+2. Analista de Datos de Investigación en DataTech Solutions (3 años)
+3. Analista de Datos de Investigación en Elite Expeditions (6 años)
+4. Analista de Desarrollo de Negocios en Modern Interiors Design (2 años)

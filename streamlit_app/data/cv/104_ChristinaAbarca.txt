@@ -1,0 +1,18 @@
+Nombre: Christina Abarca
+ 
+About: Profesional con background en Procesamiento de Grandes Volúmenes de Datos.
+Me destaco por mi Respeto.
+ 
+Herramientas técnicas:
+1. Keras
+2. Agile Methodology
+3. Pig
+4. Cybersecurity
+5. C++
+
+Experiencia laboral
+1. Gerente de Operaciones de TI en Creative Edge Design (5 años)
+2. Analista de Datos de Comportamiento del Consumidor en DataSense Analytics (2 años)
+3. Especialista en Marketing de Contenido en Quality Products Distribution (2 años)
+4. Ingeniero de Automatización en Architectural Excellence (7 años)
+5. Ingeniero de Software de Sistemas Embebidos en Swift Delivery Logistics (9 años)

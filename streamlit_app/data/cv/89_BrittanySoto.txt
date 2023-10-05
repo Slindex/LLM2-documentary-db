@@ -1,0 +1,16 @@
+Nombre: Brittany Soto
+ 
+About: Profesional con background en Ciencia de Datos en la Agricultura.
+Me destaco por mi Capacidad para Trabajar en Red.
+ 
+Herramientas técnicas:
+1. Microsoft Azure Machine Learning
+2. Asana
+3. Google Data Studio
+4. Sisense
+5. Microsoft Quantum Development Kit
+
+Experiencia laboral
+1. Gerente de Operaciones de Ventas en Precision Manufacturing Solutions (3 años)
+2. Especialista en Gestión de Proyectos en HealthTech Pharmaceuticals (2 años)
+3. Especialista en Analítica de Marketing en Creative Edge Design (7 años)

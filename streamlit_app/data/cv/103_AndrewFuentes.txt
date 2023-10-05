@@ -1,0 +1,17 @@
+Nombre: Andrew Fuentes
+ 
+About: Profesional con background en Automatización de Procesos.
+Me destaco por mi Habilidades de Presentación.
+ 
+Herramientas técnicas:
+1. Google Colab
+2. Unity
+3. Automated Testing
+4. Solidity
+5. Cucumber
+6. Cloudera
+
+Experiencia laboral
+1. Analista de Datos en Industrial Solutions Co. (8 años)
+2. Ingeniero de Automatización Industrial en BlueStar Communications (5 años)
+3. Ingeniero de Redes de Telecomunicaciones en Creative Edge Design (8 años)

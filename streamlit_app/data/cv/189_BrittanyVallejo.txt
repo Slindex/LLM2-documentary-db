@@ -1,0 +1,18 @@
+Nombre: Brittany Vallejo
+ 
+About: Profesional con background en Bioinformática.
+Me destaco por mi Empatía.
+ 
+Herramientas técnicas:
+1. Redis
+2. Data Manipulation Libraries (pandas, numpy)
+3. Apache Impala
+4. Apache Cassandra
+5. CircleCI
+6. API Documentation
+7. Virtualization (VirtualBox, VMware)
+
+Experiencia laboral
+1. Analista de Comunicación Corporativa en Swift Express Cargo (9 años)
+2. Ingeniero de Automatización de Procesos en ProTech Security Systems (6 años)
+3. Especialista en Gestión de Proyectos en DataHub Analytics (10 años)

@@ -1,0 +1,17 @@
+Nombre: Vicki Contreras
+ 
+About: Profesional con background en Desarrollo Web.
+Me destaco por mi Habilidad para Planificar y Priorizar.
+ 
+Herramientas técnicas:
+1. Quantum Computing
+2. JUnit
+3. TOGAF
+4. Data Warehousing
+
+Experiencia laboral
+1. Especialista en Experiencia del Cliente en Advanced Materials Research (9 años)
+2. Especialista en Estrategia de Contenido en DataMasters Analytics (7 años)
+3. Especialista en Marketing de Contenido en Big Data Strategies (4 años)
+4. Ingeniero de Automatización en TechPro Consulting LLC (5 años)
+5. Científico de Datos en Modern Workspace Design (10 años)

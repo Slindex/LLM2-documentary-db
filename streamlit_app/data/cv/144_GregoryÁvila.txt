@@ -1,0 +1,13 @@
+Nombre: Gregory Ávila
+ 
+About: Profesional con background en Ingeniería de Datos en Trabajo Social.
+Me destaco por mi Comunicación Intercultural.
+ 
+Herramientas técnicas:
+1. Data Visualization Libraries (matplotlib, seaborn)
+2. QlikView
+3. IoT (Internet of Things)
+
+Experiencia laboral
+1. Consultor de Gestión Empresarial en ProTech Security Services (3 años)
+2. Especialista en Gestión de Proyectos en Architectural Creations (6 años)

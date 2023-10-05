@@ -1,0 +1,15 @@
+Nombre: Marcela Sánchez
+ 
+About: Profesional con background en Periodismo.
+Me destaco por mi Comunicación Transparente.
+ 
+Herramientas técnicas:
+1. Apache Flink
+2. Bash Scripting
+3. AutoCAD
+4. Metasploit
+
+Experiencia laboral
+1. Gerente de Ventas en Smart Home Solutions (10 años)
+2. Ingeniero de Redes Inalámbricas en Advanced Robotics Systems (8 años)
+3. Analista de Datos de Usuarios en Innovative Systems Inc. (2 años)

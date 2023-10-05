@@ -1,0 +1,20 @@
+Nombre: Noelia León
+ 
+About: Profesional con background en Educación Especial.
+Me destaco por mi Colaboración Internacional.
+ 
+Herramientas técnicas:
+1. User Manuals
+2. Spark
+3. CircleCI
+4. MapReduce
+5. Data Modeling
+6. DVC (Data Version Control)
+7. Wireshark
+8. Anaconda
+
+Experiencia laboral
+1. Analista de Datos de Usuarios en BlueStar Technologies (5 años)
+2. Especialista en Big Data en Quality Foods Group (3 años)
+3. Ingeniero de Control de Procesos de Automatización en Swift Global Logistics (4 años)
+4. Ingeniero de Redes de Telecomunicaciones en DataSense Analytics (9 años)

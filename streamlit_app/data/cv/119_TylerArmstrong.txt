@@ -1,0 +1,16 @@
+Nombre: Tyler Armstrong
+ 
+About: Profesional con background en Bioinformática.
+Me destaco por mi Habilidad para Negociar Acuerdos.
+ 
+Herramientas técnicas:
+1. RapidMiner Studio
+2. CI/CD (Continuous Integration/Continuous Deployment)
+3. Snowflake
+
+Experiencia laboral
+1. Analista de Ciberseguridad en HealthWave Pharmaceuticals (7 años)
+2. Gerente de Desarrollo de Productos en Creative Edge Design (5 años)
+3. Especialista en Gestión de Proyectos en Creative Media Productions (2 años)
+4. Especialista en SEM (Search Engine Marketing) en Industrial Automation Solutions (4 años)
+5. Ingeniero de Redes de Telecomunicaciones en Elite Fashion Boutique (4 años)

@@ -1,0 +1,15 @@
+Nombre: Patrick Contreras
+ 
+About: Profesional con background en Análisis de Datos de Redes Sociales.
+Me destaco por mi Habilidad para Trabajar Bajo Presión.
+ 
+Herramientas técnicas:
+1. Database Management Systems (DBMS)
+2. Power BI
+3. Streamlit
+
+Experiencia laboral
+1. Analista de Seguimiento de Conversiones en DigitalXpress Solutions (7 años)
+2. Analista de Datos de Usuarios en Precision Manufacturing Solutions (2 años)
+3. Ingeniero de Automatización Industrial en Creative Minds Academy (10 años)
+4. Ingeniero de Robótica en Advanced Materials Innovations (8 años)

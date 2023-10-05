@@ -1,0 +1,21 @@
+Nombre: Daniel Hernández
+ 
+About: Profesional con background en Análisis de Datos en Física de Partículas.
+Me destaco por mi Habilidad para Solucionar Problemas a Distancia.
+ 
+Herramientas técnicas:
+1. Plotly
+2. ISO 9001
+3. Swagger
+4. Unreal Engine
+5. Quantum Computing
+6. 3D Printing
+7. ITIL
+8. CI/CD (Continuous Integration/Continuous Deployment)
+9. Data Preprocessing
+10. Slack
+
+Experiencia laboral
+1. Especialista en Gestión de Proyectos en EcoSustainable Solutions (10 años)
+2. Gerente de Operaciones de Logística en TechPro Consulting LLC (9 años)
+3. Comunity Mannager en Architects & Associates (7 años)

@@ -1,0 +1,19 @@
+Nombre: Ana María Catalán
+ 
+About: Profesional con background en Análisis de Datos Geoespaciales.
+Me destaco por mi Habilidad para Planificar y Priorizar.
+ 
+Herramientas técnicas:
+1. Cucumber
+2. Automated Testing
+3. Django Rest Framework
+4. Excel Power Query
+5. Visual Studio Code
+6. Apache Hive
+7. PRINCE2
+8. WordPress
+
+Experiencia laboral
+1. Especialista en Estrategia de Contenido en Creative Edge Design (6 años)
+2. Ingeniero de Software Embebido en Elite Expeditions (3 años)
+3. Gerente de Operaciones de Logística en Ingeniería Avanzada S.L. (4 años)

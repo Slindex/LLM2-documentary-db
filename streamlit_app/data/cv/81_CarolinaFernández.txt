@@ -1,0 +1,16 @@
+Nombre: Carolina Fernández
+ 
+About: Profesional con background en Astronomía.
+Me destaco por mi Autoconciencia.
+ 
+Herramientas técnicas:
+1. Cloud Computing
+2. Web Development Frameworks (Flask, Django)
+3. React
+4. Web3.js
+5. QlikView
+6. JIRA
+7. Business Intelligence (BI) Tools
+
+Experiencia laboral
+1. Especialista en Marketing de Contenido en Creative Edge Design (9 años)

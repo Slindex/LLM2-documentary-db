@@ -1,0 +1,15 @@
+Nombre: Jonathan Rojas
+ 
+About: Profesional con background en Ingeniería de Datos en la Automatización Industrial.
+Me destaco por mi Aprendizaje Continuo.
+ 
+Herramientas técnicas:
+1. MySQL
+2. Blockchain Technology
+3. Data Ethics
+
+Experiencia laboral
+1. Analista de Investigación de Mercado en Precision Motors Inc. (9 años)
+2. Especialista en Gestión de Proyectos en DataMasters Analytics (5 años)
+3. Gerente de Desarrollo de Productos en Modern Workspace Design (6 años)
+4. Gerente de Desarrollo de Negocios en Creative Edge Design (7 años)
