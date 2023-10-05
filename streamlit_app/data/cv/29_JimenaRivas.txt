@@ -1,0 +1,17 @@
+Nombre: Jimena Rivas
+ 
+About: Profesional con background en Gestión de Bases de Datos.
+Me destaco por mi Habilidades de Resolución de Conflictos.
+ 
+Herramientas técnicas:
+1. Quantum Computing
+2. Six Sigma
+3. Travis CI
+4. Network Security
+5. Trello
+6. Cybersecurity
+
+Experiencia laboral
+1. Desarrollador Full Stack en Modern Workspace Design (10 años)
+2. Especialista en Análisis de Datos de Usuarios en HealthTech Pharmaceuticals (2 años)
+3. Telemarketer en Ingeniería y Diseño Industrial (9 años)

@@ -1,0 +1,14 @@
+Nombre: Francisco Ávila
+ 
+About: Profesional con background en Educación en línea.
+Me destaco por mi Habilidad para Construir Relaciones Duraderas.
+ 
+Herramientas técnicas:
+1. Airtable
+2. Containerization
+3. RapidMiner Studio
+
+Experiencia laboral
+1. Desarrollador Frontend en Quality Products Distribution (6 años)
+2. Analista de Datos de Investigación en HealthGuard Pharmaceuticals (5 años)
+3. Analista Financiero en HealthCare Solutions Group (2 años)

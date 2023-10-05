@@ -1,0 +1,14 @@
+Nombre: Gustavo Paredes
+ 
+About: Profesional con background en Ciencia de Datos en Ingeniería Civil.
+Me destaco por mi Habilidad para Construir Relaciones Duraderas.
+ 
+Herramientas técnicas:
+1. Redshift
+2. Kubernetes
+3. IBM Qiskit
+
+Experiencia laboral
+1. Ingeniero de Control de Procesos de Automatización en Digital Insights Corp. (6 años)
+2. Gerente de Desarrollo de Negocios en SmartCity Technologies (3 años)
+3. Ingeniero de Control de Procesos de Automatización en TechWave IT Solutions (2 años)

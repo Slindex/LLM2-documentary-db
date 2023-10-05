@@ -1,0 +1,15 @@
+Nombre: Vicki Wilson
+ 
+About: Profesional con background en Ciencia de Datos en la Agricultura.
+Me destaco por mi Comunicación Empresarial.
+ 
+Herramientas técnicas:
+1. Computer Vision
+2. Cypress
+3. GitLab
+4. SQL Server
+5. Containerization
+
+Experiencia laboral
+1. Gerente de Operaciones de Ventas en GreenLife Ventures (7 años)
+2. Gerente de Logística en Digital World Technologies (5 años)

@@ -1,0 +1,19 @@
+Nombre: Emily Bailey
+ 
+About: Profesional con background en Psicología Clínica.
+Me destaco por mi Capacidad para Inspirar.
+ 
+Herramientas técnicas:
+1. OpenCV
+2. API Documentation
+3. Azure
+4. PRINCE2
+5. Cloudera
+6. Sqoop
+7. Apache Hive
+8. Pentaho
+
+Experiencia laboral
+1. Ingeniero de Automatización en Precision Manufacturing Inc. (4 años)
+2. Analista de Rendimiento de Aplicaciones en Swift Delivery Logistics (10 años)
+3. Analista de Calidad de Datos en AutoMasters Dealership (4 años)

@@ -1,0 +1,18 @@
+Nombre: Elena Rivas
+ 
+About: Profesional con background en Data Analytics.
+Me destaco por mi Habilidades de Comunicación Escrita.
+ 
+Herramientas técnicas:
+1. Nmap
+2. Virtualization (VirtualBox, VMware)
+3. Data Cleaning
+4. Social Media Marketing
+5. AutoCAD
+6. Data Governance Tools
+7. TensorFlow
+
+Experiencia laboral
+1. Gerente de Desarrollo de Productos en Swift Express Cargo (3 años)
+2. Gerente de Operaciones de Logística en HealthLine Pharmaceuticals (7 años)
+3. Ingeniero de Automatización Industrial en EcoSustainable Solutions (9 años)

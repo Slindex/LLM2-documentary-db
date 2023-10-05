@@ -1,0 +1,21 @@
+Nombre: Crystal Medina
+ 
+About: Profesional con background en Análisis de Datos en Física de Partículas.
+Me destaco por mi Habilidad para Trabajar en Ambientes Multitarea.
+ 
+Herramientas técnicas:
+1. Express.js
+2. NoSQL Databases (MongoDB, Cassandra)
+3. Google Cloud Platform (GCP)
+4. Google Colab
+5. Jupyter Notebook
+6. Git
+7. MySQL
+8. Quantum Programming
+9. Alteryx Designer
+
+Experiencia laboral
+1. Desarrollador Frontend en Architectural Masterpieces (3 años)
+2. Consultor de Seguridad de la Información en Quality Products Distribution (5 años)
+3. Diseñador de Interfaz de Usuario (UI) en Industrial Solutions Inc. (8 años)
+4. Especialista en Gestión de Proyectos en Digital Innovations Co. (2 años)

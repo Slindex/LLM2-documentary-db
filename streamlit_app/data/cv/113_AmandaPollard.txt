@@ -1,0 +1,15 @@
+Nombre: Amanda Pollard
+ 
+About: Profesional con background en Ciencias de la Comunicación.
+Me destaco por mi Liderazgo de Equipos.
+ 
+Herramientas técnicas:
+1. Statistical Modeling
+2. Data Visualization Libraries (matplotlib, seaborn)
+3. Express.js
+
+Experiencia laboral
+1. Desarrollador Back-end en Food Delights Ltda. (2 años)
+2. Traductor de Idiomas en Modern Interiors Design (6 años)
+3. Especialista en Estrategia de Contenido en MediCure Hospitals Group (8 años)
+4. Analista de Datos de Usuarios en Global Resources Network (8 años)

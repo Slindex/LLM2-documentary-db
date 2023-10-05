@@ -1,0 +1,18 @@
+Nombre: Lourdes Ojeda
+ 
+About: Profesional con background en Trabajo Social.
+Me destaco por mi Adaptabilidad.
+ 
+Herramientas técnicas:
+1. New Relic
+2. SQL Server
+3. IOTA
+4. Node.js
+5. Data Preprocessing
+6. WordPress
+7. Jenkins
+8. Dataiku DSS
+9. Plotly
+
+Experiencia laboral
+1. Ingeniero de Software de Sistemas Embebidos en Industrial Automation Solutions (6 años)

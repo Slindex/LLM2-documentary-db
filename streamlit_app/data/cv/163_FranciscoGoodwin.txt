@@ -1,0 +1,17 @@
+Nombre: Francisco Goodwin
+ 
+About: Profesional con background en Internet de las Cosas (IoT).
+Me destaco por mi Autocontrol.
+ 
+Herramientas técnicas:
+1. Ganache
+2. Blockchain Technology
+3. Hyperledger
+4. Google Cloud Platform (GCP)
+5. Nagios
+6. Data Manipulation Libraries (pandas, numpy)
+7. SQL
+8. DataRobot
+
+Experiencia laboral
+1. Analista de Datos de Comportamiento del Consumidor en Architectural Masterpieces (4 años)

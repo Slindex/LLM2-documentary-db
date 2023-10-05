@@ -1,0 +1,22 @@
+Nombre: Arthur Ojeda
+ 
+About: Profesional con background en Ingeniería de Datos en la Investigación de Mercado.
+Me destaco por mi Capacidad para Inspirar.
+ 
+Herramientas técnicas:
+1. Spacy
+2. Excel Power Query
+3. Bash Scripting
+4. Node.js
+5. Continuous Monitoring
+6. DVC (Data Version Control)
+7. Anaconda
+8. MySQL
+9. IOTA
+10. TestNG
+
+Experiencia laboral
+1. Analista de Ventas en Global Supply Chain Solutions (3 años)
+2. Ingeniero de Automatización de Procesos en DataGenius Analytics (7 años)
+3. Ingeniero de Software de Control en Precision Tools Ltd. (6 años)
+4. Coach de Negocios en Data Insights Corporation (9 años)

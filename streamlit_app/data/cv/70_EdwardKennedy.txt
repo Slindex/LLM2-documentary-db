@@ -1,0 +1,17 @@
+Nombre: Edward Kennedy
+ 
+About: Profesional con background en Minería de Datos.
+Me destaco por mi Asertividad.
+ 
+Herramientas técnicas:
+1. IBM Cloud
+2. Network Security
+3. MySQL
+4. User Manuals
+5. Databricks
+6. TeamCity
+
+Experiencia laboral
+1. Ingeniero de Hardware en Ingeniería Avanzada S.L. (7 años)
+2. Analista de Seguimiento de Conversiones en Precision Motors Inc. (5 años)
+3. Especialista en Marketing de Contenido en Ingeniería y Diseño Industrial (3 años)

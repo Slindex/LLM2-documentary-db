@@ -1,0 +1,22 @@
+Nombre: Elena Contreras
+ 
+About: Profesional con background en Ciencia de Datos en la Salud.
+Me destaco por mi Creatividad.
+ 
+Herramientas técnicas:
+1. Web3.js
+2. TestRail
+3. Data Mining
+4. Django Rest Framework
+5. Notion
+6. Data Warehousing
+7. Data Manipulation Libraries (pandas, numpy)
+8. Solidity
+9. ELK Stack (Elasticsearch, Logstash, Kibana)
+
+Experiencia laboral
+1. Especialista en Marketing de Contenido en EcoSustainable Solutions (5 años)
+2. Ingeniero de DevOps en ProTech Surveillance Services (8 años)
+3. Gerente de Operaciones de Logística en Advanced Materials Innovations (8 años)
+4. Analista de Datos en Elite Fitness Center (7 años)
+5. Analista de Ciberseguridad en DataPro Analytics Group (2 años)

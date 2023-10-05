@@ -1,0 +1,16 @@
+Nombre: Gregory Rivas
+ 
+About: Profesional con background en Historia del Arte.
+Me destaco por mi Trabajo en Equipo.
+ 
+Herramientas técnicas:
+1. IBM Qiskit
+2. Ethereum
+3. SAS Analytics
+4. Cassandra
+5. Time Series Analysis
+6. Six Sigma
+
+Experiencia laboral
+1. Analista de Datos de Investigación en Creative Edge Design (3 años)
+2. Analista de Datos de Usuarios en Advanced Materials Innovations (2 años)

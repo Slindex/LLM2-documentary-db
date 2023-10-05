@@ -1,0 +1,17 @@
+Nombre: Fernando Mcdonald
+ 
+About: Profesional con background en Marketing.
+Me destaco por mi Comunicación Transparente.
+ 
+Herramientas técnicas:
+1. MapReduce
+2. Cloud Computing
+3. RESTful API
+4. SciPy
+
+Experiencia laboral
+1. Ingeniero de Software de Sistemas Embebidos en Global Resources Network (9 años)
+2. Analista de Datos de Investigación en MediCure Hospitals Group (10 años)
+3. Gerente de Operaciones de Producción en Golden Harvest Agroexport (6 años)
+4. Especialista en Marketing de Contenido en EcoSustainable Solutions (4 años)
+5. Ingeniero de Redes de Telecomunicaciones en Precision Instruments Corp. (7 años)

@@ -1,0 +1,17 @@
+Nombre: Victoria Valdés
+ 
+About: Profesional con background en Diseño Industrial.
+Me destaco por mi Habilidades de Colaboración Remota.
+ 
+Herramientas técnicas:
+1. Documentation Tools (Confluence, Markdown)
+2. Apache Hive
+3. PRINCE2
+4. Robotics
+5. Kubernetes
+6. ELK Stack (Elasticsearch, Logstash, Kibana)
+
+Experiencia laboral
+1. Gerente de Operaciones de Logística en Elite Outdoor Adventures (10 años)
+2. Analista de Datos de Investigación en TechSolutions Development (5 años)
+3. Gerente de Operaciones de Ventas en Modern Interiors Design (3 años)

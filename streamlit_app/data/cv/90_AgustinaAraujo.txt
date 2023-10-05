@@ -1,0 +1,20 @@
+Nombre: Agustina Araujo
+ 
+About: Profesional con background en Relaciones Públicas.
+Me destaco por mi Gestión de Equipos Virtuales.
+ 
+Herramientas técnicas:
+1. Social Media Marketing
+2. Dataiku DSS
+3. API Documentation
+4. Data Visualization
+5. Teradata
+6. Statistical Modeling
+7. Automated Testing
+8. Truffle
+
+Experiencia laboral
+1. Analista de Gestión de Proyectos en MediWell Healthcare (4 años)
+2. Ingeniero de Redes Inalámbricas en Elite Outdoor Adventures (5 años)
+3. Gerente de Desarrollo de Productos en Smart Home Solutions (6 años)
+4. Gerente de Proyectos de TI en DigitalXpress Solutions (2 años)

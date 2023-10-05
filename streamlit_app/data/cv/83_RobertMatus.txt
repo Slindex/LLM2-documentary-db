@@ -1,0 +1,21 @@
+Nombre: Robert Matus
+ 
+About: Profesional con background en Procesamiento de Grandes Volúmenes de Datos.
+Me destaco por mi Adaptabilidad.
+ 
+Herramientas técnicas:
+1. Data Catalogs
+2. Scikit-Learn
+3. Technical Documentation
+4. Unreal Engine
+5. IOTA
+6. Google Analytics
+7. Apache Impala
+8. Quantum Programming
+
+Experiencia laboral
+1. Gerente de Desarrollo de Productos en BlueStar Communications (10 años)
+2. Gerente de Desarrollo de Negocios en Advanced Robotics Engineering (6 años)
+3. Analista de Cadena de Suministro en SmartCity Technologies (4 años)
+4. Gerente de Desarrollo de Negocios en Precision Manufacturing Inc. (7 años)
+5. Analista de Datos de Usuarios en DataHub Analytics (10 años)

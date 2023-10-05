@@ -1,0 +1,19 @@
+Nombre: Vanessa Godoy
+ 
+About: Profesional con background en Ciencia de Datos en Cinematografía.
+Me destaco por mi Ética Profesional.
+ 
+Herramientas técnicas:
+1. IBM Watson Studio
+2. Documentation Tools (Confluence, Markdown)
+3. Redshift
+4. NoSQL Databases
+5. React
+6. Markdown Editors
+7. Cybersecurity
+8. Data Lakes
+9. NoSQL Databases (MongoDB, Cassandra)
+10. Git
+
+Experiencia laboral
+1. Especialista en Estrategia de Contenido en Swift Logistics Solutions (10 años)

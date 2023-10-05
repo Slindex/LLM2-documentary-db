@@ -1,0 +1,22 @@
+Nombre: Juana Araujo
+ 
+About: Profesional con background en Análisis de Datos en Ingeniería Aeroespacial.
+Me destaco por mi Habilidad para Fomentar la Creatividad.
+ 
+Herramientas técnicas:
+1. CircleCI
+2. R
+3. Spacy
+4. D3.js
+5. Search Engine Marketing (SEM)
+6. Docker
+7. ISO 27001
+8. Front-End Development (HTML, CSS, JavaScript)
+9. Microsoft SQL Server
+
+Experiencia laboral
+1. Gerente de Operaciones de Producción en Modern Home Builders (2 años)
+2. Analista de Seguimiento de Conversiones en DigitalXpress Solutions (3 años)
+3. Consultor de Gestión Empresarial en Advanced Robotics Engineering (2 años)
+4. Especialista en SEO Técnico en Creative Edge Design (8 años)
+5. Especialista en Gestión de Proyectos en Global Resources Network (8 años)

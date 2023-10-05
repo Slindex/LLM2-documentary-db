@@ -1,0 +1,17 @@
+Nombre: Mariana Sutton
+ 
+About: Profesional con background en Visualización de Datos.
+Me destaco por mi Ética Profesional.
+ 
+Herramientas técnicas:
+1. ISO 9001
+2. Prometheus
+3. Data Analytics Software
+4. Text Editors (Sublime Text, Atom)
+5. Splunk
+6. Cloudera
+7. Airtable
+8. Computer Vision
+
+Experiencia laboral
+1. Analista de Seguridad de la Información en Industrial Automation Solutions (9 años)

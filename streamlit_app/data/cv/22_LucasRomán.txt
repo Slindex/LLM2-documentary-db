@@ -1,0 +1,18 @@
+Nombre: Lucas Román
+ 
+About: Profesional con background en Análisis de Datos en la Industria de la Logística.
+Me destaco por mi Confianza.
+ 
+Herramientas técnicas:
+1. Unreal Engine
+2. Data Analysis Tools (Pandas, NumPy, Jupyter)
+3. Slack
+4. Robotics
+5. Informatica PowerCenter
+6. New Relic
+7. UI/UX Design
+8. AWS Glue
+9. Containerization
+
+Experiencia laboral
+1. Ingeniero de Software de Sistemas Embebidos en BlueSky Aerospace Industries (6 años)

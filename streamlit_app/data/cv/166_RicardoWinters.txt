@@ -1,0 +1,23 @@
+Nombre: Ricardo Winters
+ 
+About: Profesional con background en Relaciones Públicas.
+Me destaco por mi Respeto por la Diversidad.
+ 
+Herramientas técnicas:
+1. Google Colab
+2. Truffle
+3. ISO 27001
+4. Kanban
+5. Apache Beam
+6. Power BI
+7. Sqoop
+8. Confluence
+9. Postman
+10. Email Marketing
+
+Experiencia laboral
+1. Gerente de Operaciones de Logística en MediCare Health Services (5 años)
+2. Especialista en Marketing de Contenido en Precision Tools Ltd. (10 años)
+3. Especialista en Análisis de Datos de Usuarios en MediLife Healthcare (9 años)
+4. Analista de Seguridad de la Información en AutoMasters Auto Repair (7 años)
+5. Analista de Datos de Usuarios en Smart Home Solutions (7 años)

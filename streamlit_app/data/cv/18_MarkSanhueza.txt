@@ -1,0 +1,12 @@
+Nombre: Mark Sanhueza
+ 
+About: Profesional con background en Minería de Datos.
+Me destaco por mi Gestión de Reuniones Virtuales.
+ 
+Herramientas técnicas:
+1. Data Visualization Libraries (matplotlib, seaborn)
+2. Express.js
+3. SQL
+
+Experiencia laboral
+1. Especialista en Redes Sociales en Architectural Wonders (7 años)

@@ -1,0 +1,16 @@
+Nombre: Lucía Bradford
+ 
+About: Profesional con background en Educación Especial.
+Me destaco por mi Colaboración Interdisciplinaria.
+ 
+Herramientas técnicas:
+1. Data Warehouse Platforms
+2. Plotly
+3. Flask-RESTful
+
+Experiencia laboral
+1. Consultor de Seguridad de la Información en Elite Expeditions (9 años)
+2. Diseñador Gráfico en Industrial Engineering Group (3 años)
+3. Analista de Seguimiento de Conversiones en GreenTech Industries (5 años)
+4. Ingeniero de Automatización Industrial en Elite Travel Adventures (6 años)
+5. Especialista en Análisis de Datos de Usuarios en Creative Design Group (3 años)

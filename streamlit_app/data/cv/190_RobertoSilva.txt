@@ -1,0 +1,15 @@
+Nombre: Roberto Silva
+ 
+About: Profesional con background en Visualización de Datos.
+Me destaco por mi Habilidades de Comunicación Oral.
+ 
+Herramientas técnicas:
+1. C++
+2. Wireshark
+3. Keras
+4. Data Visualization Libraries (matplotlib, seaborn)
+5. RapidMiner
+6. TestRail
+
+Experiencia laboral
+1. Analista de Calidad de Datos en Food Delights Ltda. (5 años)
