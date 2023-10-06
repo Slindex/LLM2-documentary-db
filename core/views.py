@@ -69,7 +69,13 @@ def chat(request):
         'queries': queries
     }
     return render(request, 'core/chat.html',context)       
+
+
+@login_required
+def CargaDocumental(request):
     
+    return render(request, 'core/CargaDocumental.html')       
+   
 """
 #De aqui en adelante hay dragones 🐲
 """
