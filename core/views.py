@@ -4,6 +4,7 @@ from .models import *
 from .forms import SignUpForm
 from django.contrib.auth import login
 from django.contrib.auth.decorators import login_required
+from django.core.files.storage import FileSystemStorage
 
 # Se comenta todo lo de llama para tenerlo cuando sea integrado
 #import os
@@ -73,15 +74,18 @@ def chat(request):
 
 @login_required
 def CargaDocumental(request):
-    
-    return render(request, 'core/CargaDocumental.html')       
-   
-"""
-#De aqui en adelante hay dragones 🐲
-"""
+    context ={}
+    if request.method == "POST":
+        uploaded_file= request.FILES["document"]
+        fs = FileSystemStorage()
+        name = fs.save(uploaded_file.name, uploaded_file)
+        context['url'] = fs.url(name)
+    return render(request, 'core/CargaDocumental.html', context)       
+
 
 def AI_GGML(request):
     
+    # Carga del modelo con replicate
     """
     llm = Replicate(
         streaming = True,
