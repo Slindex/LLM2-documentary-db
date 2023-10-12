@@ -10,6 +10,7 @@ attrs==23.1.0
 backoff==2.2.1
 bcrypt==4.0.1
 bitsandbytes==0.41.1
+bitsandbytes-cuda116==0.26.0.post2
 certifi==2023.7.22
 cffi==1.16.0
 channels==4.0.0
@@ -22,6 +23,8 @@ coloredlogs==15.0.1
 croma==0.0.2
 cryptography==41.0.4
 ctransformers==0.2.27
+cuda-python==12.2.0
+Cython==3.0.3
 dataclasses-json==0.6.1
 dill==0.3.7
 Django==4.2.5
