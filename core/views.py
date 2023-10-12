@@ -1,3 +1,4 @@
+import os
 from django.shortcuts import render, redirect
 from django.http import JsonResponse
 from .models import *
@@ -5,6 +6,7 @@ from .forms import SignUpForm
 from django.contrib.auth import login
 from django.contrib.auth.decorators import login_required
 from django.core.files.storage import FileSystemStorage
+#from media import *
 
 # Se comenta todo lo de llama para tenerlo cuando sea integrado
 #import os
@@ -17,9 +19,27 @@ from langchain.llms import LlamaCpp
 #from llama_cpp import Llama 
 from langchain.llms import CTransformers
 from langchain.llms import Replicate
+from langchain import HuggingFacePipeline
+from langchain.embeddings import SentenceTransformerEmbeddings
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain.vectorstores import Chroma
+from langchain.chains.question_answering import load_qa_chain
+from langchain.document_loaders import PyPDFLoader, TextLoader, Docx2txtLoader
+import torch 
+from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
+from huggingface_hub import login
 
-# Where the llama2 folder lives
-model_path = "c:/Users/SEBASTIAN/Downloads/llama-2-7b-chat.ggmlv3.q4_0.bin"
+
+# Constants
+model_path = "c:/Users/SEBASTIAN/Downloads/models--TheBloke--Llama-2-7B-Chat-GGML"
+idModel = "c:/Users/SEBASTIAN/Downloads/models--TheBloke--Llama-2-7B-Chat-GGML"
+embeddingsModel = "./all-MiniLM-L6-v2"
+docum = "/media"
+persist_directory = 'chroma/'
+
+login(token='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')
+
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = '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'
 
 #llm = Llama(model_path)
 
@@ -27,6 +47,7 @@ model_path = "c:/Users/SEBASTIAN/Downloads/llama-2-7b-chat.ggmlv3.q4_0.bin"
 
 
 # loading the model using langchain LlamaCpp class
+"""
 llm = CTransformers(
         model="c:/Users/SEBASTIAN/Downloads/llama-2-7b-chat.ggmlv3.q4_0.bin",
         model_type="llama",
@@ -34,7 +55,7 @@ llm = CTransformers(
         temperature=0.01,  # type: ignore
     )
 
-"""
+
 llm = Replicate(
         streaming = True,
         model = "replicate/llama-2-70b-chat:58d078176e02c219e11eb4da5a02a7830a283b14cf8f94537af893ccff5ee781", 
@@ -43,6 +64,103 @@ llm = Replicate(
         replicate_api_token="r8_dkOTjc4YFQB6w1NwpqvL5w19zKxZysF2vWUF1",
         )
 """
+
+# Functions without a page
+def createLlm(idModel):
+    tokenizer = AutoTokenizer.from_pretrained(idModel,
+                                              use_auth_token=True,)
+
+    model = AutoModelForCausalLM.from_pretrained(idModel,
+                                                trust_remote_code=True,
+                                                device_map='auto',
+                                                local_files_only = True,
+                                                torch_dtype=torch.bfloat16,
+                                                use_auth_token=True,
+                                                cache_dir= model_path
+                                                )
+    pipe = pipeline(task="text-generation",
+                    model=model,
+                    tokenizer= tokenizer,
+                    temperature=0.2,
+                    repetition_penalty=1.1)
+    llm = HuggingFacePipeline(pipeline=pipe)
+    return llm
+
+def createEmbeddings(embeddingsModel):
+    #Create embeddings here
+    print("Loading sentence transformers model")
+    embeddings = SentenceTransformerEmbeddings(
+                                model_name=embeddingsModel,
+                                model_kwargs={"device": "cpu"})
+    return embeddings
+
+"""
+# This function iterates on a list and then get the files
+def dataProcessing(uploaded_files):
+    text = []
+    for file in uploaded_files:
+      if os.path.isfile(file) and file.endswith(".txt"):
+        loader = TextLoader(file)
+        text.extend(loader.load())
+      if os.path.isfile(file) and file.endswith(".pdf"):
+        loader = PyPDFLoader(file)
+        text.extend(loader.load())
+      if os.path.isfile(file) and (file.endswith(".doc") or file.endswith(".docx")) :
+        loader = Docx2txtLoader(file)
+        text.extend(loader.load())
+
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000,
+                                              chunk_overlap=50,
+                                              length_function=len,
+                                              #is_separator_regex = False,
+                                               separators=['\n\n', '.\n', ' ', '']
+                                               )
+    text_chunks = text_splitter.split_documents(text)
+
+    os.remove(file)
+    return text_chunks
+"""
+def dataProcessing(path):
+    text = []
+  
+    loader = PyPDFLoader(f'{path}+*.pdf')
+    text.extend(loader.load())
+
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000,
+                                                  chunk_overlap=50,
+                                                  length_function=len,
+                                                  #is_separator_regex = False,
+                                                  separators=['.\n\n', '.\n', '.', '\n\n', ',']
+                                                  )
+    text_chunks = text_splitter.split_documents(text)
+
+    return text_chunks
+
+def saveToDb(text_chunks, embeddings, persist_directory):
+    
+    # Para usar la base de datos con los embedigs ya guardados
+    vector_store = Chroma.from_documents(documents=text_chunks,
+                                        embedding=embeddings,
+                                        persist_directory=persist_directory)
+    return vector_store
+
+def useDb(persist_directory, embeddings):
+    vector_store = Chroma(persist_directory=persist_directory,
+                      embedding_function=embeddings)
+    return vector_store
+
+def answer(query, llm, vector_store):
+    chain = load_qa_chain(llm, chain_type="stuff")
+    docs= vector_store.similarity_search(query, k=5)
+    output = chain.run(input_documents=docs,
+              question=query)
+    return output
+
+
+
+
+
+
 
 # Create your views here.
 def frontpage (request):
@@ -94,24 +212,31 @@ def AI_GGML(request):
         input = {"temperature": 0.01, "max_length" :500,"top_p":1},
         replicate_api_token="r8_dkOTjc4YFQB6w1NwpqvL5w19zKxZysF2vWUF1",
         )
-    """
+    
     llm = CTransformers(
         model="c:/Users/SEBASTIAN/Downloads/llama-2-7b-chat.ggmlv3.q4_0.bin",
         model_type="llama",
+        gpu_layers=50,
         max_new_tokens=512,  # type: ignore
         temperature=0.001,  # type: ignore
     )
+    
+    answer = llm(query, 
+        max_tokens=512, 
+        echo=True)
+    
+    """
+    
+    llm = createLlm(idModel)
+    embeddings = createEmbeddings(embeddingsModel)
+    vector_store = useDb(persist_directory, embeddings)
+    output = answer(query, llm, vector_store)
     
     queries = Userquery.objects.all().order_by('id')[:5]
     
     query = request.GET['query']
     
-    model_out = llm(query, 
-        max_tokens=512, 
-        echo=True)
-
-    print(model_out)
-    output = model_out
+    #output = model_out
     
     #saving the query and output to database
     query_data = Userquery(
