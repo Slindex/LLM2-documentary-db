@@ -15,11 +15,8 @@ from django.core.files.storage import FileSystemStorage
 # Importing langchai and llama2 related functions
 from langchain.callbacks.manager import CallbackManager
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
-from langchain.llms import LlamaCpp
 #from llama_cpp import Llama 
 from langchain.llms import CTransformers
-from langchain.llms import Replicate
-from langchain import HuggingFacePipeline
 from langchain.embeddings import SentenceTransformerEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.vectorstores import Chroma
@@ -30,9 +27,7 @@ import pinecone
 import torch
 import transformers
 from torch import cuda, bfloat16
-from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 from huggingface_hub import login
-from accelerate import Accelerator
 
 """
 device = f'cuda:{cuda.current_device()}' if cuda.is_available() else 'cpu'
@@ -71,13 +66,6 @@ os.environ["HUGGINGFACEHUB_API_TOKEN"] = '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'
 
 # loading the model using langchain LlamaCpp class
 """
-llm = CTransformers(
-        model="c:/Users/SEBASTIAN/Downloads/llama-2-7b-chat.ggmlv3.q4_0.bin",
-        model_type="llama",
-        max_new_tokens=512,  # type: ignore
-        temperature=0.01,  # type: ignore
-    )
-
 
 llm = Replicate(
         streaming = True,
@@ -89,26 +77,15 @@ llm = Replicate(
 """
 
 # Functions without a page
-def createLlm(idModel):
-    tokenizer = AutoTokenizer.from_pretrained(idModel,
-                                              use_auth_token=True,)
+def createLlm():
 
-    model = AutoModelForCausalLM.from_pretrained(idModel,
-                                                trust_remote_code=True,
-                                                device_map='auto',
-                                                local_files_only = True,
-                                                torch_dtype=torch.bfloat16,
-                                                use_auth_token=True,
-                                                #quantization_config=bnb_config,
-                                                cache_dir= model_path
-                                                )
-    pipe = pipeline(task="text-generation",
-                    model=model,
-                    tokenizer= tokenizer,
-                    temperature=0.2,
-                    repetition_penalty=1.1)
-    llm = HuggingFacePipeline(pipeline=pipe)
-    print('hola')
+    llm = CTransformers(
+        model="E:/david/Documents/LLM2-db-documental/model/llama-2-7b-chat.ggmlv3.q5_1.bin",
+        model_type="llama",
+        max_new_tokens=4096,  # type: ignore
+        temperature=0.01,  # type: ignore
+    )
+
     return llm
 
 def createEmbeddings(embeddingsModel):
@@ -175,22 +152,17 @@ def useDb(persist_directory, embeddings):
                       embedding_function=embeddings)
     return vector_store
 
-def answer(query, vector_store): #Se quito llm
+def answer(query, llm, vector_store):
     print('aca entro a answer')
-    #chain = load_qa_chain(llm, chain_type="stuff")
+    chain = load_qa_chain(llm, chain_type="stuff")
+
     print('aca llego a chain')
-    docs= vector_store.similarity_search(query, k=5)
+    docs= vector_store.similarity_search(query, k=2)
 
-    docum = ''
-
-    for i in range(len(docs)):
-        a = f'Documento {i+1}: \n {docs[i].page_content} \n'
-        docum += a
-
-    print(docum)
-    #output = chain.run(input_documents=docs,
-    #          question=query)
-    return docum #output
+    output = chain.run(input_documents=docs,
+              question=query)
+    
+    return output
 
 
 
@@ -261,13 +233,13 @@ def AI_GGML(request):
 
     query = request.GET['query']
     
-    #llm = createLlm(idModel)
+    llm = createLlm()
     print("model loaded")
     embeddings = createEmbeddings(embeddingsModel)
     print("embeddings created")
     vector_store = Pinecone.from_existing_index(index_name, embeddings) #useDb(persist_directory, embeddings)
     print("Pinecone vector store loaded")
-    output = answer(query, vector_store) #Se quito llm
+    output = answer(query, llm, vector_store)
     print("answer loaded")
     
     queries = Userquery.objects.all().order_by('id')[:5]
