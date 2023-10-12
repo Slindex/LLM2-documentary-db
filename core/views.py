@@ -43,6 +43,7 @@ bnb_config = transformers.BitsAndBytesConfig(
      bnb_4bit_use_double_quant=True,
      bnb_4bit_compute_dtype=bfloat16
      )
+
 """
 
 # Constants
@@ -173,16 +174,22 @@ def useDb(persist_directory, embeddings):
                       embedding_function=embeddings)
     return vector_store
 
-def answer(query, llm, vector_store):
-    chain = load_qa_chain(llm, chain_type="stuff")
+def answer(query, vector_store): #Se quito llm
+    print('aca entro a answer')
+    #chain = load_qa_chain(llm, chain_type="stuff")
+    print('aca llego a chain')
     docs= vector_store.similarity_search(query, k=5)
-    output = chain.run(input_documents=docs,
-              question=query)
-    return output
 
+    docum = ''
 
+    for i in range(len(docs)):
+        a = f'Documento {i+1}: \n {docs[i].page_content} \n'
+        docum += a
 
-
+    print(docum)
+    #output = chain.run(input_documents=docs,
+    #          question=query)
+    return docum #output
 
 
 
@@ -253,13 +260,13 @@ def AI_GGML(request):
 
     query = request.GET['query']
     
-    llm = createLlm(idModel)
+    #llm = createLlm(idModel)
     print("model loaded")
     embeddings = createEmbeddings(embeddingsModel)
     print("embeddings created")
     vector_store = Pinecone.from_existing_index(index_name, embeddings) #useDb(persist_directory, embeddings)
     print("Pinecone vector store loaded")
-    output = answer(query, llm, vector_store)
+    output = answer(query, vector_store) #Se quito llm
     print("answer loaded")
     
     queries = Userquery.objects.all().order_by('id')[:5]
