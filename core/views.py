@@ -25,21 +25,43 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.vectorstores import Chroma
 from langchain.chains.question_answering import load_qa_chain
 from langchain.document_loaders import PyPDFLoader, TextLoader, Docx2txtLoader
-import torch 
+from langchain.vectorstores import Pinecone
+import pinecone
+import torch
+import transformers
+from torch import cuda, bfloat16
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 from huggingface_hub import login
+from accelerate import Accelerator
 
+"""
+device = f'cuda:{cuda.current_device()}' if cuda.is_available() else 'cpu'
+
+bnb_config = transformers.BitsAndBytesConfig(
+     load_in_4bit=False, #Era True
+     bnb_4bit_quant_type='nf4',
+     bnb_4bit_use_double_quant=True,
+     bnb_4bit_compute_dtype=bfloat16
+     )
+"""
 
 # Constants
-model_path = "c:/Users/SEBASTIAN/Downloads/models--TheBloke--Llama-2-7B-Chat-GGML"
-idModel = "c:/Users/SEBASTIAN/Downloads/models--TheBloke--Llama-2-7B-Chat-GGML"
-embeddingsModel = "./all-MiniLM-L6-v2"
+model_path = "E:/david/Documents/LLM2-db-documental/model"
+idModel = "meta-llama/Llama-2-7b-chat-hf"
+embeddingsModel = "sentence-transformers/all-MiniLM-L6-v2"
 docum = "/media"
 persist_directory = 'chroma/'
+PINECONE_API_KEY = os.environ.get('PINECONE_API_KEY', '161b38d5-c986-4da9-ac94-d980a3fa0de7') #,'f5444e56-58db-42db-afd6-d4bd9b2cb40c')
+PINECONE_API_ENV = os.environ.get('PINECONE_API_ENV', 'gcp-starter') #, 'asia-southeast1-gcp-free')
+pinecone.init(
+    api_key=PINECONE_API_KEY,
+    environment=PINECONE_API_ENV
+    )
+index_name = "langchain-pinecone-llama2"
 
-login(token='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')
+login(token='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')
 
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = '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'
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = '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'
 
 #llm = Llama(model_path)
 
@@ -76,6 +98,7 @@ def createLlm(idModel):
                                                 local_files_only = True,
                                                 torch_dtype=torch.bfloat16,
                                                 use_auth_token=True,
+                                                #quantization_config=bnb_config,
                                                 cache_dir= model_path
                                                 )
     pipe = pipeline(task="text-generation",
@@ -92,6 +115,7 @@ def createEmbeddings(embeddingsModel):
     embeddings = SentenceTransformerEmbeddings(
                                 model_name=embeddingsModel,
                                 model_kwargs={"device": "cpu"})
+    print("Finished loading sentence transformers model")
     return embeddings
 
 """
@@ -226,15 +250,19 @@ def AI_GGML(request):
         echo=True)
     
     """
+
+    query = request.GET['query']
     
     llm = createLlm(idModel)
+    print("model loaded")
     embeddings = createEmbeddings(embeddingsModel)
-    vector_store = useDb(persist_directory, embeddings)
+    print("embeddings created")
+    vector_store = Pinecone.from_existing_index(index_name, embeddings) #useDb(persist_directory, embeddings)
+    print("Pinecone vector store loaded")
     output = answer(query, llm, vector_store)
+    print("answer loaded")
     
     queries = Userquery.objects.all().order_by('id')[:5]
-    
-    query = request.GET['query']
     
     #output = model_out
     
