@@ -108,6 +108,7 @@ def createLlm(idModel):
                     temperature=0.2,
                     repetition_penalty=1.1)
     llm = HuggingFacePipeline(pipeline=pipe)
+    print('hola')
     return llm
 
 def createEmbeddings(embeddingsModel):
