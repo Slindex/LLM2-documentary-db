@@ -79,8 +79,6 @@ def AI_GGML(request):
     vectorStore = ut.readVectorStore(ut.INDEX_NAME, embeddings)
     output = ut.answer(query, llm, vectorStore)
     
-    queries = Userquery.objects.all().order_by('id')[:5]
-    
     #saving the query and output to database
     queryData = Userquery(
         query=query,
@@ -88,7 +86,6 @@ def AI_GGML(request):
     )
     queryData.save() 
     context = {
-        'queries':queries,
         'query':query,
         'output':output
     }

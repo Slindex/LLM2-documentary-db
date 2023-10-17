@@ -14,7 +14,7 @@ import pinecone
 # Constants
 MODEL_PATH = "./llm_model/llama-2-7b-chat.ggmlv3.q5_1.bin"
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
-PINECONE_API_KEY = os.environ.get('PINECONE_API_KEY', '161b38d5-c986-4da9-ac94-d980a3fa0de7')
+PINECONE_API_KEY = os.environ.get('PINECONE_API_KEY', 'cfbb82d1-3577-464e-8d9b-01dbd85ddd95')
 PINECONE_API_ENV = os.environ.get('PINECONE_API_ENV', 'gcp-starter')
 INDEX_NAME = "langchain-pinecone-llama2"
 
