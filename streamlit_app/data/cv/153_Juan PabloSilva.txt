@@ -1,0 +1,15 @@
+Nombre: Juan Pablo Silva
+ 
+About: Profesional con background en Estadísticas de Deportes.
+Me destaco por mi Capacidad de Organización.
+ 
+Herramientas técnicas:
+1. Stellar
+2. Jenkins
+3. Automated Testing
+4. Machine Learning
+5. Data Visualization
+6. RapidMiner
+
+Experiencia laboral
+1. Especialista en Análisis de Datos de Usuarios en Swift Logistics Solutions (7 años)

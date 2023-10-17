@@ -1,0 +1,22 @@
+Nombre: Valeria Holt
+ 
+About: Profesional con background en Desarrollo Web.
+Me destaco por mi Cortesía Profesional.
+ 
+Herramientas técnicas:
+1. Data Visualization Libraries (matplotlib, seaborn)
+2. Cassandra
+3. GitLab
+4. Google Colab
+5. Zeppelin
+6. Unity
+7. Travis CI
+8. Data Governance
+9. Power BI
+10. Data Quality
+
+Experiencia laboral
+1. Ingeniero de Software de Sistemas Embebidos en SmartCity Technologies (3 años)
+2. Consultor de Seguridad de la Información en Digital World Technologies (10 años)
+3. Ingeniero de Software de Sistemas Embebidos en AutoRevolution Automotive (5 años)
+4. Gerente de Desarrollo de Productos en MediConnect Healthcare (10 años)

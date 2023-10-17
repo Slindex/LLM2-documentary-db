@@ -1,0 +1,17 @@
+Nombre: Rocío Matus
+ 
+About: Profesional con background en Optimización de Motores de Búsqueda.
+Me destaco por mi Habilidades de Comunicación Oral.
+ 
+Herramientas técnicas:
+1. Zeppelin
+2. Web3.js
+3. IBM Watson
+4. Data Visualization Libraries (matplotlib, seaborn)
+5. Apache Kafka
+
+Experiencia laboral
+1. Analista de Seguridad de la Información en DataQuest Analytics (10 años)
+2. Ingeniero de Software de Sistemas Embebidos en DigitalXpress Solutions (8 años)
+3. Analista de Datos de Usuarios en ProTech Security Services (10 años)
+4. Gerente de Desarrollo de Negocios en Digital Harmony Solutions (4 años)

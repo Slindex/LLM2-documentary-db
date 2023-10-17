@@ -1,0 +1,17 @@
+Nombre: Daniel Santos
+ 
+About: Profesional con background en Análisis de Datos en Periodismo.
+Me destaco por mi Creatividad.
+ 
+Herramientas técnicas:
+1. Reinforcement Learning
+2. Pig
+3. Documentation Tools (Confluence, Markdown)
+4. DevOps
+
+Experiencia laboral
+1. Ingeniero de Software de Sistemas Embebidos en Industrial Engineering Group (4 años)
+2. Analista de Seguimiento de Conversiones en Mega Autos Importadora (9 años)
+3. Desarrollador de Aplicaciones Web en BlueOcean Technologies (5 años)
+4. Analista de Seguridad de la Información en Analytics Innovators Inc. (9 años)
+5. Ingeniero de Control de Procesos de Automatización en AutoTech Innovations (3 años)

@@ -1,0 +1,18 @@
+Nombre: Cassandra Zúñiga
+ 
+About: Profesional con background en Robótica.
+Me destaco por mi Pensamiento Analítico.
+ 
+Herramientas técnicas:
+1. Virtualization (VirtualBox, VMware)
+2. PyTorch
+3. C++
+4. MapReduce
+5. Project Management Tools (Jira, Trello)
+
+Experiencia laboral
+1. Analista de Datos de Usuarios en TechNex IT Services (10 años)
+2. Especialista en Análisis de Datos de Usuarios en Advanced Materials Innovations (10 años)
+3. Analista de Comunicación Corporativa en Smart Energy Solutions (7 años)
+4. Especialista en Redes Sociales en AutoMasters Auto Repair (6 años)
+5. Analista de Seguridad de la Información en Innovative Technologies Ltd. (9 años)

@@ -1,0 +1,16 @@
+Nombre: Sergio Rojas
+ 
+About: Profesional con background en Desarrollo de Productos.
+Me destaco por mi Capacidad de Organización.
+ 
+Herramientas técnicas:
+1. Swagger
+2. Redis
+3. 3D Printing
+
+Experiencia laboral
+1. Analista de Datos de Comportamiento del Consumidor en Global Logistics Ltd. (3 años)
+2. Analista de Seguimiento de Conversiones en Architectural Masterpieces (10 años)
+3. Gerente de Desarrollo de Productos en Creative Edge Design (9 años)
+4. Analista de Sistemas en HealthWave Pharmaceuticals (10 años)
+5. Ingeniero de Control de Calidad en Architectural Innovations (3 años)

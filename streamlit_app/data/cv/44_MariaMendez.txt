@@ -1,0 +1,17 @@
+Nombre: Maria Mendez
+ 
+About: Profesional con background en Diseño de Base de Datos.
+Me destaco por mi Comunicación en Entornos Virtuales.
+ 
+Herramientas técnicas:
+1. PyTorch
+2. RapidMiner Studio
+3. Data Governance Tools
+4. Travis CI
+5. Quantum Computing
+6. Bitbucket
+
+Experiencia laboral
+1. Ingeniero de Control de Procesos Industriales en Global Logistics Ltd. (6 años)
+2. Analista de Riesgos en AutoDrive Automotive (4 años)
+3. Ingeniero de Automatización Industrial en Modern Construction Ltd. (2 años)

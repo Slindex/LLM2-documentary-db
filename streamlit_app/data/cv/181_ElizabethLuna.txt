@@ -1,0 +1,19 @@
+Nombre: Elizabeth Luna
+ 
+About: Profesional con background en Ciencia de Datos en Psicopedagogía.
+Me destaco por mi Negociación.
+ 
+Herramientas técnicas:
+1. Automated Testing
+2. Six Sigma
+3. Power BI
+4. Microsoft Excel
+5. Splunk
+6. Apache Hive
+7. Python
+8. Data Mining
+9. Pig
+
+Experiencia laboral
+1. Analista de Business Intelligence en MediWell Healthcare (9 años)
+2. Analista de Gestión de Proyectos en ProTech Surveillance Services (2 años)

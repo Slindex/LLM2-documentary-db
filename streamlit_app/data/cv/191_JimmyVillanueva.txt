@@ -1,0 +1,21 @@
+Nombre: Jimmy Villanueva
+ 
+About: Profesional con background en Bioestadística.
+Me destaco por mi Capacidad para Liderar Equipos Remotos.
+ 
+Herramientas técnicas:
+1. ELK Stack (Elasticsearch, Logstash, Kibana)
+2. Email Marketing
+3. Google AutoML
+4. Pentaho
+5. Visual Studio Code
+6. Google Cloud Platform (GCP)
+7. C++
+8. Containerization
+9. Content Marketing
+10. Postman
+
+Experiencia laboral
+1. Especialista en Marketing de Contenido en EcoSustainable Solutions (5 años)
+2. Ingeniero de Software de Sistemas Embebidos en Architectural Excellence (9 años)
+3. Especialista en Estrategia de Contenido en HealthGuard Pharmaceuticals (8 años)

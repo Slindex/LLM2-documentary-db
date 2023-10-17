@@ -1,0 +1,15 @@
+Nombre: Moisés Cisternas
+ 
+About: Profesional con background en Ingeniería de Datos en Trabajo Social.
+Me destaco por mi Comunicación Transparente.
+ 
+Herramientas técnicas:
+1. Automated Testing
+2. IBM Watson
+3. Scikit-Learn
+4. ELK Stack (Elasticsearch, Logstash, Kibana)
+
+Experiencia laboral
+1. Gerente de Operaciones de Logística en DataWave Technologies (7 años)
+2. Especialista en Estrategia de Contenido en BlueStream Communications (2 años)
+3. Encargado de Compras en Creative Minds Academy (2 años)

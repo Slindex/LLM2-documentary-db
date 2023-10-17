@@ -1,0 +1,19 @@
+Nombre: Justin Gallardo
+ 
+About: Profesional con background en Machine Learning.
+Me destaco por mi Habilidades de Colaboración en Equipo.
+ 
+Herramientas técnicas:
+1. Microsoft SQL Server
+2. ITIL
+3. Asana
+4. Cucumber
+5. Python
+6. Alteryx
+7. AIOps (Artificial Intelligence for IT Operations)
+8. Selenium
+
+Experiencia laboral
+1. Ingeniero de Control de Procesos de Automatización en Digital World Technologies (5 años)
+2. Especialista en Email Marketing en Quality Products Distribution (6 años)
+3. Especialista en Marketing de Contenido en Elite Outdoor Adventures (8 años)

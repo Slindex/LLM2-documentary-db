@@ -1,0 +1,20 @@
+Nombre: Paulina Valencia
+ 
+About: Profesional con background en Ciencia de Datos en Ingeniería Mecánica.
+Me destaco por mi Comunicación Virtual Efectiva.
+ 
+Herramientas técnicas:
+1. 3D Printing
+2. Blender
+3. Data Modeling
+4. MLflow
+5. C++
+6. Apache Impala
+7. ELK Stack (Elasticsearch, Logstash, Kibana)
+
+Experiencia laboral
+1. Gerente de Ventas en HealthWave Pharmaceuticals (8 años)
+2. Gerente de TI en EcoScape Landscaping (3 años)
+3. Ingeniero de Control de Procesos de Automatización en AutoMasters Dealership (3 años)
+4. Especialista en Análisis de Datos de Usuarios en GreenLife Ventures (4 años)
+5. Analista de Seguimiento de Conversiones en TechSolutions Development (6 años)

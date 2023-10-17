@@ -1,0 +1,18 @@
+Nombre: James Medina
+ 
+About: Profesional con background en Análisis Predictivo.
+Me destaco por mi Gestión de Conflictos.
+ 
+Herramientas técnicas:
+1. Microsoft Azure
+2. Git
+3. Machine Learning
+4. MongoDB
+5. ETL (Extracción, Transformación y Carga)
+
+Experiencia laboral
+1. Analista de Business Intelligence en Digital Harmony Solutions (8 años)
+2. Gerente de Operaciones en Modern Workspace Design (8 años)
+3. Especialista en Analítica Web en Modern Living Design (8 años)
+4. Traductor de Idiomas en ProTech Security Systems (4 años)
+5. Gerente de Desarrollo de Productos en Creative Edge Design (10 años)

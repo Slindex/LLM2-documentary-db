@@ -1,0 +1,13 @@
+Nombre: Héctor Ávila
+ 
+About: Profesional con background en Estadística Aplicada.
+Me destaco por mi Liderazgo.
+ 
+Herramientas técnicas:
+1. Visual Studio Code
+2. Robot Framework
+3. MongoDB
+4. Quantum Computing
+
+Experiencia laboral
+1. Analista de Seguridad de la Información en Swift Express Shipping (8 años)

@@ -1,0 +1,18 @@
+Nombre: Joshua León
+ 
+About: Profesional con background en Medicina.
+Me destaco por mi Trabajo en Equipo Virtual.
+ 
+Herramientas técnicas:
+1. MLflow
+2. Database Management Systems (DBMS)
+3. Email Marketing
+4. User Manuals
+5. Postman
+6. MongoDB
+
+Experiencia laboral
+1. Analista de Datos de Usuarios en HealthWave Pharmaceuticals (3 años)
+2. Ingeniero de Control de Procesos de Automatización en MediCura Healthcare (8 años)
+3. Ingeniero de Software de Sistemas Embebidos en HealthLine Pharmaceuticals (4 años)
+4. Analista de Comunicación Corporativa en Advanced Materials Research (6 años)

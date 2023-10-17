@@ -1,0 +1,20 @@
+Nombre: Jazmín Pizarro
+ 
+About: Profesional con background en Psicología Clínica.
+Me destaco por mi Capacidad para Inspirar.
+ 
+Herramientas técnicas:
+1. React
+2. Unity
+3. Data Governance Tools
+4. Ganache
+5. Data Visualization Libraries (matplotlib, seaborn)
+6. Containerization
+7. PyCharm
+8. IOTA
+9. Business Intelligence (BI) Tools
+
+Experiencia laboral
+1. Analista de Seguridad de la Información en Advanced Materials Innovations (9 años)
+2. Especialista en Gestión de Proyectos en MediCare Health Services (3 años)
+3. Desarrollador Frontend en Digital Innovations Co. (9 años)

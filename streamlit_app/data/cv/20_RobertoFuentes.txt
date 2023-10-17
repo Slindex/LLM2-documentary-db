@@ -1,0 +1,18 @@
+Nombre: Roberto Fuentes
+ 
+About: Profesional con background en Producción Audiovisual.
+Me destaco por mi Liderazgo.
+ 
+Herramientas técnicas:
+1. Data Ethics
+2. Markdown Editors
+3. IBM SPSS
+4. AIOps (Artificial Intelligence for IT Operations)
+5. Express.js
+6. Google AutoML
+7. Ethereum
+8. Postman
+9. WordPress
+
+Experiencia laboral
+1. Diseñador de Experiencia de Usuario (UX) en Creative Design Group (8 años)

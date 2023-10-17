@@ -1,0 +1,14 @@
+Nombre: Lucas Jiménez
+ 
+About: Profesional con background en Ingeniería de Datos en Sistemas de Información Geográfica (GIS).
+Me destaco por mi Colaboración Interdisciplinaria.
+ 
+Herramientas técnicas:
+1. Blender
+2. Apache Kafka
+3. Data Analytics Software
+
+Experiencia laboral
+1. Ingeniero de Redes de Telecomunicaciones en Precision Electronics Inc. (10 años)
+2. Ingeniero de Software de Sistemas Embebidos en Industrial Automation Solutions (3 años)
+3. Analista de Datos de Ciencia en MediConnect Healthcare (2 años)

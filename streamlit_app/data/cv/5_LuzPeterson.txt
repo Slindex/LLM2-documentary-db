@@ -1,0 +1,17 @@
+Nombre: Luz Peterson
+ 
+About: Profesional con background en Análisis de Datos en Física de Partículas.
+Me destaco por mi Comunicación en Entornos Virtuales.
+ 
+Herramientas técnicas:
+1. AIOps (Artificial Intelligence for IT Operations)
+2. Responsive Web Design
+3. Unity
+4. Apache Cassandra
+
+Experiencia laboral
+1. Especialista en Análisis de Datos de Usuarios en BlueOcean Technologies (5 años)
+2. Analista de Inteligencia de Negocios en Modern Workspace Design (10 años)
+3. Especialista en Estrategia de Contenido en DigitalXpress Solutions (10 años)
+4. Gerente de Desarrollo de Negocios en SmartCity Technologies (5 años)
+5. Ingeniero de Redes de Telecomunicaciones en Swift Cargo Logistics (7 años)

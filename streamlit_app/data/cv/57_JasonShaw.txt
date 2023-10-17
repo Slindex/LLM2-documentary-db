@@ -1,0 +1,15 @@
+Nombre: Jason Shaw
+ 
+About: Profesional con background en Derecho.
+Me destaco por mi Comunicación Intercultural en Línea.
+ 
+Herramientas técnicas:
+1. Talend
+2. Ganache
+3. Linux/Unix
+4. Machine Learning
+5. Postman
+
+Experiencia laboral
+1. Analista de Negocios en Modern Workspace Design (7 años)
+2. Especialista en Marketing de Contenido en Quality Products Distribution (3 años)

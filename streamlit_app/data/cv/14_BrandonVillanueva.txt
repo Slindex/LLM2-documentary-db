@@ -1,0 +1,19 @@
+Nombre: Brandon Villanueva
+ 
+About: Profesional con background en Ciencia de Datos en Ingeniería Mecánica.
+Me destaco por mi Adaptabilidad al Cambio.
+ 
+Herramientas técnicas:
+1. Cypress
+2. Reinforcement Learning
+3. Linux/Unix
+4. StatsModels
+5. Data Quality
+6. Google AutoML
+7. Teradata
+8. OpenCV
+9. Bokeh
+10. Looker
+
+Experiencia laboral
+1. Gerente de Recursos Humanos en TechSolutions Development (7 años)
