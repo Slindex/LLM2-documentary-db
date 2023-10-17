@@ -1,6 +1,17 @@
 
-<div class="w-1/5 pt-16 h-full xl:flex-col fixed top-30 left-0 bg-teal-700">
 {% block sidebar %}
+
+<div class="w-1/5 pt-4 h-full xl:flex-col fixed top-30 left-0 bg-teal-700">
+    <p class="text-2xl lg:text-2xl text-white text-center">Consultas pasadas</p>
+    <div class="queries" id="queries-location" >
+        {% for q in queries %}
+            <div class="mt-5 mx-0.5 h-20 bg-teal-500 overflow-auto" >
+                📄{{q}}
+            </div>
+        {% endfor %}
+        
+    </div>
+    
 </div>
 
 {% endblock sidebar %}
