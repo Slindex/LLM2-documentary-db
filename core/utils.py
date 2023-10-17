@@ -19,6 +19,7 @@ PINECONE_API_ENV = os.environ.get('PINECONE_API_ENV', 'gcp-starter')
 INDEX_NAME = "langchain-pinecone-llama2"
 
 
+
 def pineconeLogin():
 
     """
