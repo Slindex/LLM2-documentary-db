@@ -1,4 +1,6 @@
-# Introducción
+# Resumen del alcance del proyecto y metodología de trabajo
+
+## Introducción
 ---
 Los **Large Language Models** (LLMs) son modelos de inteligencia artificial diseñados para comprender y generar texto haciendo uso del **Natural Language Processing** (NLP), en español, Procesamiento del Lenguaje Natural. Los LLM pueden generar texto coherente y relevante, responder preguntas y realizar tareas basadas en el lenguaje, lo cual los dota de capacidades increíbles para abordar y solucionar múltiples problemáticas relacionadas a la interpretación y generación del lenguaje.
 
@@ -8,9 +10,8 @@ Este proyecto busca utilizar **Llama2**, el LLM OpenSource más grande desarroll
 
 Este proyecto se estructura de acuerdo con la siguiente **tabla de contenido**:
 
-[[_TOC_]]
 
-# Alcance del Proyecto
+## Alcance del Proyecto
 ---
 En esta sección se especifican las **acciones** a desempeñar, así como las **funcionalidades y aplicaciones** a desarrollar que se encuentran **dentro y fuera del campo de acción de este proyecto**. También se hace alusión a las **responsabilidades que asume este proyecto y sus implicados** en cuanto al uso de las aplicaciones o herramientas que se desarrollen en el mismo.
 ## Dentro del Campo de Acción
@@ -22,15 +23,19 @@ A continuación se enlistan algunos términos que se contemplan dentro del campo
 * Testing de tecnologías
 * Proyecto de investigación
 * Fase Alpha de desarrollo
-## Fuera del Campo de Acción
+
+### Fuera del Campo de Acción
 Bajo ninguna circunstancia este proyecto pretende desarrollar una aplicación final o comercial que pueda ser utilizada por el usuario común. La implementación de pruebas técnicas y de compatibilidad para el uso comercial o personal, así como la redacción de una guía de uso responsable están fuera del alcance de este proyecto. Por lo tanto, el usuario asume la responsabilidad de cualquier daño o perdida en la información que se produzca debido al uso del MVP desarrollado. El usuario también asume la responsabilidad del uso indebido que este le dé al MVP para otros fines.
-# Desarrollo del Proyecto
+
+## Desarrollo del Proyecto
 ---
-## Contexto
+
+### Contexto
 Este proyecto se desarrolla como una pasantía empresarial para la empresa **Go Up Cloud** y, a su vez, como proyecto grupal de grado para el Bootcamp **Soy Henry**. Por lo tanto, la construcción de la aplicación propuesta dentro de los lineamientos y alcances del proyecto tendrá principalmente fines de investigación y desarrollo de productos basados en LLMs con potencial de derivar en una solución comercial que pueda ser desarrollada y utilizada a criterio, conveniencia y disposición por la empresa **Go Up Cloud**. El desarrollo de este proyecto se planea en el intervalo de tiempo de 1 mes:
 * Desde: 25/Septiembre/2023
 * Hasta: 20/Octubre/2023
-## Etapas de Desarrollo
+
+### Etapas de Desarrollo
 Este proyecto consta de 4 grandes etapas de desarrollo, cada una pensada para añadir funcionalidades al modelo de forma incremental. A continuación se enlistan:
 * Desarrollo e Implementación del LLM
 * Demo del Modelo en Streamlit
@@ -38,7 +43,8 @@ Este proyecto consta de 4 grandes etapas de desarrollo, cada una pensada para a�
 * Integración de la DB
 
 Cada una de las etapas de desarrollo del MVP son presentadas al CEO y gestora de proyectos de la empresa en el transcurso de 4 Sprints definidos de la siguiente forma:
-## Equipo de Desarrollo
+
+### Equipo de Desarrollo
 El equipo de desarrollo de este proyecto consta de los siguientes participantes y roles:
 
 | Nombre         | Rol                          |
@@ -50,7 +56,8 @@ El equipo de desarrollo de este proyecto consta de los siguientes participantes 
 | David Echajaya | Project Manager / LLM DevOps |
 
 Cada uno de los roles se designaron tomando en consideración un balance entre las necesidades del proyecto, preferencias personales, habilidades y background de cada uno de los participantes.
-## Directorio del proyecto
+
+### Directorio del proyecto
 
 - **core**
     - **migrations**
@@ -82,19 +89,21 @@ Cada uno de los roles se designaron tomando en consideración un balance entre l
 - manage.py
 - requirements.txt
 
-# Flujo de Trabajo
+## Flujo de Trabajo
 ---
 El flujo de trabajo del proyecto consta de 3 grandes corrientes: <span style="color: #3ba159;">Procesamiento de Documentos</span>, <span style="color: #2c4883;">Interpretación del LLM</span>, <span style="color: #6a5598;">Consulta del Usuario</span>. En el diagrama que se presenta a continuación se representa cada una de las corrientes mediante su respectivo color.
 
-![Diagrama de Trabajo.png](/.attachments/Diagrama%20de%20Trabajo-2b166468-8e68-499d-876c-321a9f018b74.png)
+<p align=center>
+<img src="src/llm_prompting01.png">
+<p>
 
-# Convenciones y adopciones
+## Convenciones y adopciones
 ---
-## Siglas
+### Siglas
 
 - PR: Pull Request
 
-## Idioma
+### Idioma
 
 - T**odo en el código, incluyendo clases, variables, constantes en inglés**
 - Readme y notebooks **español**
@@ -108,20 +117,20 @@ Inglés para:
 - Pull Requests
 - Comentarios
 
-## Seguimiento del Proyecto
+### Seguimiento del Proyecto
 
 **GitHub** proyect para seguimiento del proyecto
 
 **Notion** para compartir infromación
 
-## Escritura de Commits y Branches
+### Escritura de Commits y Branches
 
 - **Commits** con formato conventional commit
 - **No alterar** el mensaje de commit de los merge, dejar el que se genera automáticamente
 - Branches informar sobre qué sección se trabaja y qué tipo de branch es: “feat/user_creation”
 - **Main branch debe ser estable**. Para mergear hacia master/main hay que estar suficientemente confiado de que va a andar todo y no va a haber regresiones (romperse cosas que ya andaban)
 
-### Estructura
+#### Estructura
 
 ```
 <tipo>: <descripción>
@@ -159,7 +168,7 @@ Resolve: #11"
 - En **funciones**:
     - Escribir con doble paréntesis al final: ()
 
-## Escritura de Pull Requests
+### Escritura de Pull Requests
 
 - Un PR debe comunicar en qué consiste el cambio y por qué es necesario.
     - **Título**: poner "**WIP:** " si se hace el PR antes que este listo para revisión. Sino tiene que ser claro sobre qué esta cambiando
@@ -173,8 +182,9 @@ Resolve: #11"
 - Autores:
     - Aplique los cambios debidos a los comentarios de los revisores como commits adicionales, y subir una vez que el PR esté listo para fusionar.
 
-## Convención del Código
-### Nombrado
+### Convención del Código
+
+#### Nombrado
 
 - **Variables y funciones**: camelCase
 - **Constantes**: FILE_PATH
@@ -182,7 +192,7 @@ Resolve: #11"
 
 ⚠️ *Usar el nombre justo implica que el nombre de la variable permita entender específicamente qué contiene dicha variable a cualquiera que esté mínimamente familiarizado con el código del proyecto*
 
-### Docstring
+#### Docstring
 
 ```
 '''
@@ -197,12 +207,12 @@ None
 '''
 ```
 
-### Comentarios
+#### Comentarios
 
 - El código tiene que poder entenderse lo máximo posible sin comentarios
 - Si todavía vemos beneficioso dejar un comentario, que sea claro y directo y esté bien cerca de lo que aclara.
 
-## Code review
+### Code review
 
 - Avisar al **reviewer** cuando un PR está listo para revisar.
 - Si el PR se crea antes de estar listo poner al principio del título "**WIP:** ", y sacarlo cuando el PR se considere feature-complete, testeado y estable.
@@ -213,7 +223,7 @@ None
 
 ⚠️ *El code review no supone entender hasta el último detalle cada línea de código ajena pero, sí incentiva a que tengamos una visión global del proyecto; queremos tener una idea clara de las partes que lo componen y cómo se relacionan.*
 
-## Workflow en Github
+### Workflow en Github
 
 1. **Clonar** el repo forkeado.
 2. **Crear** la rama del **Issue**

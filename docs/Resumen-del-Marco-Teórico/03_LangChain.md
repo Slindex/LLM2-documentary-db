@@ -1,6 +1,6 @@
-[[_TOC_]]
+# Framework langChain para LLM
 
-# ¿Qué es Langchain?
+## ¿Qué es Langchain?
 ---
 
 En un framework en Python que facilita la programación de aplicaciones basadas en LLM. Creado por Harrison Chase.
@@ -9,22 +9,20 @@ Este framework es muy fácil de usar para crear aplicaciones con modelos de inte
 
 Se mantiene actualizado en horas cada vez que hay novedades y siguiendo buenas prácticas.
 
-# Conceptos básicos
+## Conceptos básicos
 ---
 
 Estos son los conceptos más generales y básicos para entender Longchain.
 
-## Modelos
+### Modelos
 
 Los modelos (langchain.llms) conectan o llaman a langchain para conectar con algún proveedor de inteligencia artificial. Primero crea el proveedor y luego le entrega el modelo al que uno se quiere conectar. 
 
 Algunos proveedores:
 
-<center>
-
-![Untitled.png](/.attachments/Untitled-443c264c-1a6b-4dca-8429-fbe15ef11bd7.png)
-
-</center>
+<p align=center>
+<img src="../src/LangChain01.png">
+<p>
 
 El principal es microsoft con GPT4, CPT3.5 o Da Vinci. Éste último, no es especializado en chat, sino que se utiliza cuando se necesita procesar un texto y devolver por ejemplo un JSON.
 
@@ -33,7 +31,7 @@ AI21labs y Cohere no tienen modelos de chat, pero con sus framework se pueden cr
 > Para que funcione el código hay que hacer un archivo .env con las api key. Por ejemplo, OPENAI_API_KEY con la clave de la página de OpenAI.
 > 
 
-### Ejemplo de llms
+#### Ejemplo de llms
 
 Con este código ya se puede hacer un llamado a la API de OpenIA:
 
@@ -58,7 +56,7 @@ En este caso, como no se especifica el **modelo**, por defecto va a tomar Da Vin
 > DEMO: llm/llm_openai.py
 > 
 
-### Ejemplo con modelos con chat
+#### Ejemplo con modelos con chat
 
 Ahora cambia un poco el paradigma, ya no hay un texto que entra y otro que sale, es decir, no esta primero la comprensión del lenguaje y luego la generación del lenguaje, sino que tenemos primero **contexto** y **roles** de del sistema, del usuario y asistente o bot.
 
@@ -102,7 +100,7 @@ Para tener la respuesta se para el mensaje al modelo:
 response = chat(messages)
 ```
 
-## Prompt template
+### Prompt template
 
 Esta es la parte mas importante que tiene langchain porque finalmente, cuando se crea una app, no se necesita solamente que el usuario entregue información y la app le de información de vuelta, sino que necesita rellenar textos con información del usuario. Es necesario crear un buen prompt antes que ese mensaje se envíe al modelo de inteligencia artificial. Por eso, es necesario primero crear un string, una variable, que indique todo lo que uno quiere se se vaya como prompt para obtener una buena respuesta. 
 
@@ -210,7 +208,7 @@ También se puden crear los templeate teniendo en cuenta los conceptos de:
 > DEMO: prompt_template/prompt_few_shots.py
 > 
 
-## Chains
+### Chains
 
 Son cadenas de texto que se pueden ir ejecutando una con otra y se pueden crear muchos prompt templeate y muchas cadenas pero aún así obtener una única respuesta completa específicamente a lo que uno necesita.
 
@@ -268,7 +266,7 @@ En cada cadena se puede concatener distintos modelos.
 > **Hasta aca lo importante es entender cómo se arma el prompt, cómo se envía y qué devuelve el modelo**
 > 
 
-## Embeddings
+### Embeddings
 
 Son vectores que clasifican el texto, o específicamente el chunk de un texto, en una base de datos vectorial, con los cuales se pueden hacer búsquedas semánticas.
 
@@ -282,13 +280,13 @@ De esta manera la búsqueda semántica funciona muy bien con este tipo de base d
 
 ⚠️ Cuando se rankean los embeddings, no quiere decir que las primeras son las mejores, quizás la última también sirve para esa pregunta.
 
-## Agents
+### Agents
 
 Permiten ejecutar cosas que estan fuera del alcance de los modelos de lenguaje. Por fuera se pueden entrenar, entregar información específica, hasta conexión a internet, donde los agentes van a ir, por ejemplo, a internet, van a ejecutar tareas y van a devolver una información que se le va a entregar al modelo.
 
 Para crear agentes especializados, se puede usar la plataforma [judini.ai](http://judini.ai) que tiene una API: [https://judini.gitbook.io/api-judini/](https://judini.gitbook.io/api-judini/) donde permite omitir toda la parte de los embeddings. Se necesita acreditarse para poder usarlo.
 
-# Referencias
+## Referencias
 ---
 
 1. GitHug de creador de Langchain [https://github.com/hwchase17](https://github.com/hwchase17)

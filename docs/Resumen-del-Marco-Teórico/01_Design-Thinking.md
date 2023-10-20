@@ -1,15 +1,13 @@
-[[_TOC_]]
+# Metodología Design-Thinking
 
-# Introducción
+## Introducción
 ---
 
 El Design Thinking, o Pensamiento de Diseño, es un enfoque creativo y colaborativo utilizado para resolver problemas y desarrollar soluciones innovadoras. Se basa en la comprensión profunda de las necesidades y deseos de los usuarios, así como en la generación de ideas y la iteración rápida para llegar a soluciones viables y centradas en el usuario.
 
-<center>
-
-![Untitled.png](/.attachments/Untitled-17fb9477-360c-41d5-80ef-5c33c44ac671.png =400x)
-
-</center>
+<p align=center>
+<img src="../src/design-thinking01.png">
+<p>
 
 - **Deseabilidad:** Necesidad, dolor o problema a resolver
 - **Viabilidad:** Que sea rentable y pueda ser monetizado o genere un beneficio ‘Ganar-ganar’ para el negocio (Alianzas por ejemplo)
@@ -20,7 +18,7 @@ El Design Thinking, o Pensamiento de Diseño, es un enfoque creativo y colaborat
 **Steve Jobs**
 > 
 
-# Fases del Design Thinking
+## Fases del Design Thinking
 ---
 
 El Design Thinking consta de varias fases que guían el proceso de resolución de problemas y desarrollo de soluciones innovadoras. Estas fases son las siguientes:
@@ -33,10 +31,11 @@ El Design Thinking consta de varias fases que guían el proceso de resolución d
 
 El Design Thinking es un enfoque iterativo, lo que significa que estas fases no son lineales y se pueden repetir según sea necesario para lograr la mejor solución posible.
 
-![Untitled 1.png](/.attachments/Untitled%201-cd370be9-271c-4c13-b0bb-a9294fa64575.png)
-_Diagrama de las fases del Design Thinking_
+<p align=center>
+<img src="../src/design-thinking02.png">
+<p>
 
-## Empatizar
+### Empatizar
 
 La fase de **Empatía** en el Design Thinking es el primer paso crucial en el proceso de resolución de problemas y desarrollo de soluciones innovadoras. Durante esta fase, el objetivo principal es comprender profundamente las necesidades, deseos y desafíos de los usuarios. Esto se logra a través de la observación directa, la investigación y la empatía con los usuarios.
 
@@ -52,25 +51,26 @@ Es posible generar empatía con los usuarios a través de:
 **Tim Brown**
 > 
 
-## Definir
+### Definir
 
 La etapa de **Definición** en el Design Thinking se centra en establecer de manera clara el problema o desafío que se va a abordar. Utilizando la comprensión obtenida durante la fase de empatía, se definen objetivos específicos y se crean declaraciones de problema que guiarán el proceso de diseño. En esta etapa, es fundamental tener una visión clara del problema y comprender las necesidades y deseos de los usuarios involucrados. La definición adecuada del problema permite enfocar los esfuerzos de diseño en encontrar soluciones efectivas y centradas en el usuario.
 
-### Metodología para formular el problema
+#### Metodología para formular el problema
 
 1. Describir el desafío de manera simple y optimista (Utilizar la pregunta ‘Cómo podríamos?’)
     1. Suficientemente amplio para descubrir áreas de valor inesperadas
     2. Suficientemente estrecho para hacer que el desafío sea manejable
 2. Considerar la medida del éxito y la restricción potencial para garantizar que la indagación del éxtio sea viable
 
-![Untitled 2.png](/.attachments/Untitled%202-94266e26-44b6-4101-af16-dca043e48df0.png)
-_Ejemplo de formulación del desafío_
+<p align=center>
+<img src="../src/design-thinking03png">
+<p>
 
 > *“Si tuviera una hora para resolver un problema, gastaría los primeros 55 minutos en determinar la pregunta apropiada, porque una vez con la pregunta correcta, podríamos resolver el problema en menos de 5 minutos”* 
 **Albert Einstein**
 > 
 
-## Idear
+### Idear
 
 La etapa de **Ideación** en el Design Thinking es un proceso creativo y colaborativo en el que se generan una amplia variedad de ideas y soluciones para abordar el problema definido en la etapa anterior. Durante esta fase, se fomenta el pensamiento divergente y se busca explorar diferentes perspectivas y enfoques para encontrar soluciones innovadoras.
 
@@ -80,7 +80,7 @@ Para estimular la generación de ideas, se utilizan técnicas como el pensamient
 **Linus Pauling**
 > 
 
-### Métodos comunes de ideación
+#### Métodos comunes de ideación
 
 - **Lluvia de ideas**
     
@@ -99,19 +99,19 @@ Para estimular la generación de ideas, se utilizan técnicas como el pensamient
     En esta técnica, los miembros del equipo buscan las peores ideas posibles para resolver la problemática, esto con el fin de expandir el horizonte de ideas y abrir la menta a posibilidades y estrategias no convencionales, lo cual propicia y acelera la innovación.
     
 
-### Reglas de ideación
+#### Reglas de ideación
 
 - Aplazar el juicio
 - Fomentar ideas descabelladas
 - Construir sobre las ideas de los demás
 
-## Prototipar
+### Prototipar
 
 La etapa de **Prototipado** en el Design Thinking es crucial para transformar las ideas generadas durante la fase de ideación en soluciones tangibles y concretas. Durante esta etapa, se construyen prototipos rápidos y de bajo costo que representan las soluciones propuestas. Estos prototipos pueden ser tangibles, como maquetas o productos físicos, o intangibles, como maquetas interactivas o simulaciones.
 
 El objetivo principal del prototipado es obtener retroalimentación de los usuarios y validar las soluciones propuestas. Los prototipos permiten a los diseñadores y equipos de trabajo experimentar y probar diferentes ideas, evaluar su viabilidad y realizar mejoras iterativas. Al recibir comentarios de los usuarios, se pueden realizar ajustes y refinamientos en los prototipos para acercarse cada vez más a una solución final viable y centrada en el usuario. El prototipado se basa en la premisa de que es más efectivo aprender a través de la experimentación y la iteración rápida que a través de la planificación y el desarrollo a largo plazo.
 
-### Principios fundamentales del prototipado
+#### Principios fundamentales del prototipado
 
 1. **Simplemente comienza a construir**
     
@@ -126,7 +126,7 @@ El objetivo principal del prototipado es obtener retroalimentación de los usuar
     El objetivo es aprender de las brechas entre las expectativas y las realidades de los usuarios para mejorar las ideas
     
 
-### Tipos de prototipos
+#### Tipos de prototipos
 
 - **Baja fidelidad**
     
@@ -141,13 +141,13 @@ El objetivo principal del prototipado es obtener retroalimentación de los usuar
 **Thomas Edison**
 > 
 
-## Probar
+### Probar
 
 La etapa de **Probar** en el Design Thinking se enfoca en evaluar y validar los prototipos creados durante la fase de Prototipado. Durante esta etapa, se busca obtener retroalimentación de los usuarios y realizar mejoras iterativas en las soluciones propuestas.
 
 El objetivo principal de la etapa de Probar es asegurarse de que las soluciones propuestas sean viables y estén centradas en el usuario. Para lograrlo, se realizan pruebas con los usuarios para evaluar la usabilidad, funcionalidad y satisfacción de los prototipos. La retroalimentación recibida de los usuarios se utiliza para realizar ajustes y refinamientos en los prototipos, con el objetivo de llegar a una solución final que cumpla con las necesidades y deseos de los usuarios de manera efectiva.
 
-### Beneficios de las pruebas de usuario
+#### Beneficios de las pruebas de usuario
 
 1. **Ahorran tiempo y dinero**
     
@@ -162,7 +162,7 @@ El objetivo principal de la etapa de Probar es asegurarse de que las soluciones 
     El pensamiento de diseño se trata de poner al usuario en el centro. Al recopilar comentarios de primera mano de los usuarios, puedes tomar decisiones informadas, mejorando la satisfacción del usuario a largo plazo.
     
 
-### Metodologías para las pruebas de usuario
+#### Metodologías para las pruebas de usuario
 
 - **Entrevistas individuales:** Se llevan a cabo entrevistas uno a uno con los usuarios para obtener información detallada sobre su experiencia y perspectivas. Estas entrevistas permiten profundizar en los pensamientos, sentimientos y comportamientos de los usuarios.
 - **Pruebas de usabilidad:** Se realizan pruebas en las que los usuarios interactúan con un prototipo o producto real para evaluar su facilidad de uso, eficiencia y satisfacción. Estas pruebas permiten identificar problemas de usabilidad y realizar mejoras iterativas.
@@ -174,7 +174,7 @@ El objetivo principal de la etapa de Probar es asegurarse de que las soluciones 
 **Eric Ries**
 > 
 
-# Enlaces de Referencia
+## Enlaces de Referencia
 
 ---
 

@@ -1,12 +1,11 @@
-[[_TOC_]]
+# Modelos LLM y prompting
 
-
-# Introducción
+## Introducción
 ---
 
 Un modelo de lenguaje grande (LLM, por sus siglas en inglés) es un tipo de modelo de inteligencia artificial que está diseñado para comprender y generar texto en varios idiomas. Utiliza técnicas de aprendizaje automático avanzadas para analizar grandes cantidades de datos de texto y aprender las reglas y patrones del lenguaje. Los LLM pueden generar texto coherente y relevante, responder preguntas y realizar tareas basadas en el lenguaje. Estos modelos son muy útiles en aplicaciones como la traducción automática, la generación de texto y la asistencia en la redacción de contenido. Sin embargo, es importante tener en cuenta que los LLM también pueden tener limitaciones y desafíos éticos, como la propagación de información falsa o sesgada si no se controlan adecuadamente.
 
-## Técnicas de ML más usadas
+### Técnicas de ML más usadas
 
 A continuación se enlistan brevemente algunos de los tipos de técnicas avanzadas de aprendizaje automático utilizadas en los "Large Language Models":
 
@@ -18,7 +17,7 @@ A continuación se enlistan brevemente algunos de los tipos de técnicas avanzad
 
 Estas son solo algunas de las técnicas utilizadas en los Large Language Models, que les permiten comprender y generar texto de manera efectiva en varios idiomas.
 
-## Efectividad de los LMs
+### Efectividad de los LMs
 
 La efectividad de los Language Models depende de los siguientes factores:
 
@@ -26,14 +25,14 @@ La efectividad de los Language Models depende de los siguientes factores:
 - Parámetros de las Redes Neuronales (A mayor cantidad de parámetros, mejor desempeño)
 - Transformers (Mecanismos de Atención y Word Embeddings)
 
-# Transfer Learning
+## Transfer Learning
 ---
 
 El Transfer Learning, o aprendizaje por transferencia, es un concepto clave en el campo del aprendizaje automático y la inteligencia artificial. Consiste en aprovechar el conocimiento y la experiencia adquiridos al resolver una tarea para aplicarlos en otra tarea relacionada. En el contexto de los modelos de lenguaje, el Transfer Learning implica utilizar un modelo previamente entrenado en una gran cantidad de datos para luego adaptarlo a una tarea específica utilizando un conjunto de datos más pequeño.
 
 La idea principal detrás del Transfer Learning es que un modelo previamente entrenado pueda capturar características generales del lenguaje y del dominio, lo que lo convierte en un punto de partida sólido para resolver nuevas tareas. Al utilizar Transfer Learning, se pueden lograr resultados prometedores incluso con conjuntos de datos más limitados, ya que el modelo ya ha aprendido patrones y estructuras relevantes en un contexto más amplio.
 
-# Arquitecturas de los Transformers
+## Arquitecturas de los Transformers
 ---
 
 A continuación se enumeran algunas de las arquitecturas de los Transformers utilizadas en la inteligencia artificial:
@@ -46,7 +45,7 @@ A continuación se enumeran algunas de las arquitecturas de los Transformers uti
 
 Estas son algunas de las arquitecturas de los Transformers utilizadas en la inteligencia artificial para comprender y generar texto de manera efectiva.
 
-## Encoder
+### Encoder
 
 Un modelo codificador en un LLM (Large Language Model) es una parte fundamental de la arquitectura del modelo. El objetivo principal del codificador es procesar y comprender la información de entrada, como texto o secuencias de palabras. Utiliza técnicas avanzadas de aprendizaje automático, como las redes neuronales, para extraer características y representaciones significativas de los datos de entrada.
 
@@ -56,7 +55,7 @@ El codificador procesa la información de manera secuencial, teniendo en cuenta 
 
 En resumen, un modelo codificador en un LLM es responsable de procesar y comprender la información de entrada, generando representaciones de alta dimensionalidad que capturan la semántica y el contexto del texto. Estas representaciones son fundamentales para que el LLM pueda generar texto coherente y relevante en diferentes idiomas y tareas de procesamiento del lenguaje natural.
 
-## Decoder
+### Decoder
 
 Un decodificador en un LLM (Large Language Model) es una parte esencial de la arquitectura del modelo. Su función principal es generar texto comprensible y relevante basado en la información de entrada y las representaciones generadas por el codificador.
 
@@ -66,7 +65,7 @@ El proceso de decodificación implica utilizar las representaciones internas del
 
 En resumen, el decodificador en un LLM es responsable de generar texto coherente y relevante basado en las representaciones internas del codificador. Es una parte integral del modelo que utiliza técnicas avanzadas de aprendizaje automático para producir resultados comprensibles y de calidad en diversas tareas de procesamiento del lenguaje natural.
 
-## Comparación de arquitecturas
+### Comparación de arquitecturas
 
 |  | Codificador | Decodificador |
 | --- | --- | --- |
@@ -80,14 +79,12 @@ En resumen, el decodificador en un LLM es responsable de generar texto coherente
 | Tareas principales | Procesamiento de información de entrada | Generación de texto coherente y relevante |
 | Importancia en el modelo | Fundamental | Esencial |
 
-<center>
 
-![Untitled.png](/.attachments/Untitled-c2198aa3-8e7c-409c-922c-58b20d05d2cc.png)
-_LLM Árbol de evolución_
+<p align=center>
+<img src="../src/llm_prompting01.png">
+<p>
 
-</center>
-
-# RLHF
+## RLHF
 ---
 
 El aprendizaje por refuerzo a partir de la retroalimentación humana (RLHF) es un enfoque en el campo del aprendizaje automático y la inteligencia artificial en el cual un modelo de inteligencia artificial aprende de manera iterativa a través de la interacción con humanos. En lugar de basarse únicamente en recompensas o castigos definidos por un sistema de recompensas predefinido, el RLHF emplea la retroalimentación proporcionada por los humanos para guiar el aprendizaje del modelo.
@@ -98,19 +95,16 @@ El objetivo del RLHF es mejorar el desempeño del modelo, permitiéndole aprende
 
 En resumen, el aprendizaje por refuerzo a partir de la retroalimentación humana es un enfoque en el que un modelo de inteligencia artificial aprende a través de la interacción con humanos, utilizando la retroalimentación proporcionada por estos para mejorar su desempeño y lograr resultados más alineados con las necesidades y preferencias humanas.
 
-<center>
+<p align=center>
+<img src="../src/llm_prompting02.png">
+<p>
 
-![Untitled 1.png](/.attachments/Untitled%201-7686c99c-82b4-40fe-b93c-c03dc868a150.png)
-_Chat GPT RLHF Training process_
-
-</center>
-
-# Prompt Engineering
+## Prompt Engineering
 ---
 
 La ingeniería de prompts es un enfoque en el campo del procesamiento del lenguaje natural que se centra en la creación y diseño de instrucciones o indicaciones para guiar y obtener resultados más precisos de los modelos de lenguaje. Se trata de formular de manera estratégica preguntas o frases de inicio que permitan al modelo comprender y generar texto coherente y relevante en función de la tarea o la información deseada. La ingeniería de prompts es especialmente útil para ajustar y personalizar los resultados de los modelos de lenguaje, asegurando que se alineen con las necesidades y las intenciones específicas de los usuarios o las aplicaciones.
 
-## Casos de uso
+### Casos de uso
 
 A continuación se enumeran algunos casos de uso comunes de la ingeniería de prompts:
 
@@ -122,7 +116,7 @@ A continuación se enumeran algunos casos de uso comunes de la ingeniería de pr
 
 Estos son solo algunos ejemplos de cómo se puede utilizar la ingeniería de prompts para mejorar y personalizar los resultados de los modelos de lenguaje en una amplia gama de aplicaciones y escenarios.
 
-## Componentes de un Prompt
+### Componentes de un Prompt
 
 Un prompt consta de varios componentes que ayudan a guiar y obtener resultados más precisos de los modelos de lenguaje. Los componentes clave de un prompt son:
 
@@ -133,7 +127,7 @@ Un prompt consta de varios componentes que ayudan a guiar y obtener resultados m
 
 Al combinar estos elementos de un prompt de manera efectiva, se puede guiar y personalizar la salida de los modelos de lenguaje, asegurando que se ajusten a las necesidades y requerimientos específicos de la tarea o la aplicación.
 
-## Técnicas de Prompting
+### Técnicas de Prompting
 
 A continuación se enlistan algunas técnicas de prompting utilizadas en el procesamiento del lenguaje natural:
 
@@ -146,7 +140,7 @@ A continuación se enlistan algunas técnicas de prompting utilizadas en el proc
 
 Estas son algunas de las técnicas de prompting utilizadas en el procesamiento del lenguaje natural para guiar y obtener resultados más precisos de los modelos de lenguaje.
 
-## Dificultades de los LLM
+### Dificultades de los LLM
 
 Estas son algunas de las dificultades más importantes que presentan los modelos LLM:
 
@@ -158,7 +152,7 @@ Estas son algunas de las dificultades más importantes que presentan los modelos
 
 Estas dificultades representan desafíos importantes en el desarrollo y la aplicación de modelos LLM, y requieren consideraciones cuidadosas en términos de selección de datos, mitigación de sesgos y garantía de la interpretabilidad y la calidad del modelo.
 
-# **Enlaces de Referencia**
+## **Enlaces de Referencia**
 ---
 
 1. OpenAI. "Chat GPT." OpenAI, 2021. [Link](https://openai.com/chatgpt)

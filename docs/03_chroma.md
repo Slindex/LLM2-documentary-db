@@ -1,13 +1,11 @@
-<center>
-
 # Alternativa de Base de Datos Vectorial Open Source 
-</center> 
 
 <p align=center>
 <img src="src\chroma.png" height=50 weight=50>
 <p>
 
 ## Definición - Chroma
+---
 
 Es una base de datos vectorial de código abierto, flexible y sencilla, capaz de guardar vectores (generalmente embeddings) para su uso posterior en LLMs (grandes modelos de lenguaje) y también sirve como base para motores de búsqueda semánticos que operan con datos textuales. Chroma ofrece la gestión de grandes volúmenes de datos no estructurados y semiestructurados.
 
@@ -27,6 +25,7 @@ Si está trabajando desde una computadora portátil Jupyter, utilice el comando
 El indicador "-U" se utiliza para actualizar ChromDB si tiene instalada una versión anterior. Se recomienda utilizar la versión 3.10 de Python o una versión posterior.
 
 ## Características
+---
 
 Se integra con LangChain y Chainlit, es un framework que utiliza LLMs para crear aplicaciones de inteligencia artificial, tales como chatbots similares al famoso ChatGPT.
 
@@ -36,6 +35,7 @@ Se integra con LangChain y Chainlit, es un framework que utiliza LLMs para crear
 <br/>
 
 ## ChatLlama2 para Documentos usando Chainlit
+---
 
 Esta solución está comprendida por 2 etapas la primera es la Ingestión de los documentos en la Base de Datos Vectorial Chroma y la segunda es la consulta de documentos.
 
@@ -224,7 +224,9 @@ def createConversationalChain(vectorStore,prompt):
     return chain
 
 ```
+
 ### Archivo de Aplicación app.py
+
 Éste archivo albergará todo el código que se usará para crear la aplicación de ChatBot con Chainlit
 
 ```python
@@ -279,6 +281,7 @@ async def process_chat_message(message):
 ```
 
 ## Enlaces de Referencia
+---
 
 - [An Overview of ChromaDB: The Vector Database](https://medium.com/@kbdhunga/an-overview-of-chromadb-the-vector-database-206437541bdd)
 - [Tutorial de la base de datos vectorial Chroma](https://anderfernandez.com/blog/chroma-vector-database-tutorial/)
